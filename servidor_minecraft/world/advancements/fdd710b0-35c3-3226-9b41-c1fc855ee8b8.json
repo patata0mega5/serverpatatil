@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-11-30 22:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-11-30 22:31:21 +0000"
@@ -144,6 +150,7 @@
       "minecraft:taiga": "2024-11-30 22:15:15 +0000",
       "minecraft:taiga_hills": "2024-11-30 21:57:44 +0000",
       "minecraft:river": "2024-11-30 22:15:09 +0000",
+      "minecraft:wooded_hills": "2024-11-30 22:41:52 +0000",
       "minecraft:plains": "2024-11-30 21:58:16 +0000"
     },
     "done": false
@@ -366,13 +373,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:creeper": "2024-11-30 22:14:30 +0000"
+      "minecraft:creeper": "2024-11-30 22:14:30 +0000",
+      "minecraft:zombified_piglin": "2024-11-30 22:38:32 +0000",
+      "minecraft:piglin": "2024-11-30 22:38:35 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-11-30 22:37:05 +0000"
     },
     "done": true
   },
@@ -429,6 +444,14 @@
       "has_mutton": "2024-11-30 22:17:41 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-30 22:37:05 +0000",
+      "minecraft:nether_wastes": "2024-11-30 22:37:32 +0000",
+      "minecraft:basalt_deltas": "2024-11-30 22:38:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
