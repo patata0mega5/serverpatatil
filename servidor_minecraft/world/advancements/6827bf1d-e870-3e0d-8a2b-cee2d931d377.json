@@ -1,0 +1,29 @@
+{
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-11-30 21:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-30 21:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:fox": "2024-11-30 21:51:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-30 21:52:49 +0000",
+      "minecraft:taiga_hills": "2024-11-30 21:50:26 +0000",
+      "minecraft:plains": "2024-11-30 21:51:01 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
