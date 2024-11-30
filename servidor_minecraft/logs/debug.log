@@ -1032,3 +1032,9 @@
 [30Nov2024 23:14:38.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
 [30Nov2024 23:15:34.383] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Nov2024 23:15:34.385] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 23:20:34.659] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Nov2024 23:20:34.661] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 23:25:34.078] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Nov2024 23:25:34.081] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 23:27:54.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
+[30Nov2024 23:27:54.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game

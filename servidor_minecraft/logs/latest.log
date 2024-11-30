@@ -372,3 +372,5 @@
 [30Nov2024 23:14:06.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to 1.00000005E7, 74.49390748022948, -240.02507271818945]
 [30Nov2024 23:14:07.065] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.628441947374483,0.0,2.361906775159156
 [30Nov2024 23:14:38.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
+[30Nov2024 23:27:54.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
+[30Nov2024 23:27:54.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
