@@ -1,4 +1,52 @@
 {
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-30 22:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-30 22:11:06 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/insane_dedication": {
+    "criteria": {
+      "inventory_changed": "2024-11-30 22:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 21:59:58 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/fbomb": {
+    "criteria": {
+      "inventory_changed": "2024-11-30 22:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-30 21:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:fox": "2024-11-30 21:51:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-11-30 22:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-30 21:59:58 +0000"
@@ -17,29 +65,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-30 21:59:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-11-30 21:52:16 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-11-30 21:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:fox": "2024-11-30 21:51:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
@@ -50,6 +80,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-30 21:59:58 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/silver_lining": {
+    "criteria": {
+      "gained_tool": "2024-11-30 22:11:23 +0000"
     },
     "done": true
   },
