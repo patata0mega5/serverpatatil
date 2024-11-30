@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2024-11-30 22:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-11-30 22:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
@@ -373,15 +385,26 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-11-30 22:52:12 +0000",
+      "minecraft:spider": "2024-11-30 22:49:27 +0000",
       "minecraft:creeper": "2024-11-30 22:14:30 +0000",
       "minecraft:zombified_piglin": "2024-11-30 22:38:32 +0000",
-      "minecraft:piglin": "2024-11-30 22:38:35 +0000"
+      "minecraft:witch": "2024-11-30 22:54:00 +0000",
+      "minecraft:piglin": "2024-11-30 22:38:35 +0000",
+      "minecraft:enderman": "2024-11-30 22:49:27 +0000",
+      "minecraft:zombie": "2024-11-30 22:49:27 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/infinite_potential": {
+    "criteria": {
+      "inventory_changed": "2024-11-30 22:53:31 +0000"
     },
     "done": true
   },
