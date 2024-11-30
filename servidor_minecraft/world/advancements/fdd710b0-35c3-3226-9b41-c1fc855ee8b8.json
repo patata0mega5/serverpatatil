@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-11-30 22:31:21 +0000"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
@@ -89,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-30 22:31:22 +0000"
@@ -104,6 +128,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-11-30 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -128,6 +158,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-11-30 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -170,6 +206,12 @@
   "witherstormmod:main/summon_wither_storm": {
     "criteria": {
       "summoned_wither_storm": "2024-11-30 22:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -260,6 +302,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -361,6 +409,7 @@
       "minecraft:taiga_hills": "2024-11-30 21:57:44 +0000",
       "minecraft:river": "2024-11-30 22:15:09 +0000",
       "minecraft:wooded_hills": "2024-11-30 22:41:52 +0000",
+      "minecraft:swamp": "2024-11-30 23:11:45 +0000",
       "minecraft:plains": "2024-11-30 21:58:16 +0000"
     },
     "done": false
@@ -422,6 +471,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-11-30 22:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
     },
     "done": true
   },
@@ -497,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-11-30 22:22:19 +0000"
@@ -546,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_horse_armor": "2024-11-30 22:58:25 +0000"
@@ -565,6 +632,12 @@
       "minecraft:basalt_deltas": "2024-11-30 22:38:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-30 23:12:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {

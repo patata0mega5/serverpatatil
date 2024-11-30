@@ -366,3 +366,9 @@
 [30Nov2024 22:58:25.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Isn't It Iron Pick]
 [30Nov2024 22:59:45.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Infinite Potential]
 [30Nov2024 23:04:17.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to patata0mega]
+[30Nov2024 23:12:46.142] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.129234074991246,0.0,2.112777423404623
+[30Nov2024 23:13:32.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to 0.5, 100.0, 0.5]
+[30Nov2024 23:13:49.683] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! -2.5908460355279956,0.0,10.162807548554184
+[30Nov2024 23:14:06.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to 1.00000005E7, 74.49390748022948, -240.02507271818945]
+[30Nov2024 23:14:07.065] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.628441947374483,0.0,2.361906775159156
+[30Nov2024 23:14:38.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]

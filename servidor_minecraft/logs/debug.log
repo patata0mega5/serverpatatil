@@ -1022,3 +1022,13 @@
 [30Nov2024 23:04:17.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to patata0mega]
 [30Nov2024 23:05:35.589] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Nov2024 23:05:35.592] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 23:10:34.523] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Nov2024 23:10:34.526] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Nov2024 23:12:46.142] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.129234074991246,0.0,2.112777423404623
+[30Nov2024 23:13:32.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to 0.5, 100.0, 0.5]
+[30Nov2024 23:13:49.683] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! -2.5908460355279956,0.0,10.162807548554184
+[30Nov2024 23:14:06.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to 1.00000005E7, 74.49390748022948, -240.02507271818945]
+[30Nov2024 23:14:07.065] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.628441947374483,0.0,2.361906775159156
+[30Nov2024 23:14:38.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
+[30Nov2024 23:15:34.383] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Nov2024 23:15:34.385] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
