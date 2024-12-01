@@ -1,378 +1,185 @@
-[30Nov2024 22:29:38.340] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[30Nov2024 22:29:38.343] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[30Nov2024 22:29:38.623] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[30Nov2024 22:29:38.685] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/serverpatatil/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[30Nov2024 22:29:39.102] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 22:29:39.189] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 22:29:39.196] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 22:29:40.181] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[30Nov2024 22:29:40.302] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
-[30Nov2024 22:29:40.302] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
-[30Nov2024 22:29:40.303] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found witherstormmod.mixins.json:IMixinGameRenderer
-[30Nov2024 22:29:40.304] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/model/ModelRenderer (java.lang.ClassNotFoundException: null)
-[30Nov2024 22:29:40.304] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.model.ModelRenderer was not found witherstormmod.mixins.json:IMixinModelRenderer
-[30Nov2024 22:29:40.308] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
-[30Nov2024 22:29:40.309] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
-[30Nov2024 22:29:40.309] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found witherstormmod.mixins.json:MixinGameRenderer
-[30Nov2024 22:29:40.312] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/shader/ShaderGroup for invalid dist DEDICATED_SERVER
-[30Nov2024 22:29:40.312] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/shader/ShaderGroup (java.lang.RuntimeException: Attempted to load class net/minecraft/client/shader/ShaderGroup for invalid dist DEDICATED_SERVER)
-[30Nov2024 22:29:40.313] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.shader.ShaderGroup was not found witherstormmod.mixins.json:IMixinShaderGroup
-[30Nov2024 22:29:40.341] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/BlockModelRenderer for invalid dist DEDICATED_SERVER
-[30Nov2024 22:29:40.346] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/BlockModelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/BlockModelRenderer for invalid dist DEDICATED_SERVER)
-[30Nov2024 22:29:40.346] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.BlockModelRenderer was not found witherstormmod.mixins.json:IMixinBlockModelRenderer
-[30Nov2024 22:29:46.577] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[30Nov2024 22:29:46.584] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[30Nov2024 22:29:47.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Nov2024 22:29:48.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[30Nov2024 22:29:50.832] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Nov2024 22:29:51.578] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[30Nov2024 22:29:51.580] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[30Nov2024 22:29:51.582] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[30Nov2024 22:29:51.584] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[30Nov2024 22:29:51.587] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[30Nov2024 22:29:51.594] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
-[30Nov2024 22:29:51.596] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[30Nov2024 22:29:51.598] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[30Nov2024 22:29:51.602] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, witherstormmod-1.16.5-1.0.3.jar
-[30Nov2024 22:29:52.955] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[30Nov2024 22:29:53.822] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 940 advancements
-[30Nov2024 22:29:55.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[30Nov2024 22:29:55.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Nov2024 22:29:55.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Nov2024 22:29:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Nov2024 22:29:56.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Nov2024 22:29:56.270] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[30Nov2024 22:29:56.469] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Nov2024 22:29:56.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Nov2024 22:29:56.470] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Nov2024 22:29:56.471] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Nov2024 22:29:56.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Nov2024 22:29:57.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Nov2024 22:29:59.183] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 22:29:59.185] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 22:29:59.199] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 22:29:59.200] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 22:29:59.560] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
-[30Nov2024 22:30:02.750] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[30Nov2024 22:30:02.752] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[30Nov2024 22:30:02.752] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[30Nov2024 22:30:02.752] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[30Nov2024 22:30:02.753] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[30Nov2024 22:30:02.753] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[30Nov2024 22:30:03.048] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
-[30Nov2024 22:30:03.593] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
-[30Nov2024 22:30:03.769] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6223 ms
-[30Nov2024 22:30:03.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.274s)! For help, type "help"
-[30Nov2024 22:30:07.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
-[30Nov2024 22:30:15.262] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@320d8218
-[30Nov2024 22:30:15.309] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: patata0mega[/0:0:0:0:0:0:0:1%0:56862] logged in with entity id 730 at (179.75283526451608, 90.0, 520.640000565367)
-[30Nov2024 22:30:15.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega joined the game
-[30Nov2024 22:30:19.533] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6b83de15
-[30Nov2024 22:30:19.548] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:56872] logged in with entity id 902 at (180.0426973417959, 90.0, 519.1487453670268)
-[30Nov2024 22:30:19.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
-[30Nov2024 22:30:27.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[30Nov2024 22:30:48.104] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1181, l='ServerLevel[world]', x=129.77, y=68.69, z=478.23]
-[30Nov2024 22:30:48.105] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1181, l='ServerLevel[world]', x=129.77, y=68.69, z=478.23]
-[30Nov2024 22:30:48.106] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1182, l='ServerLevel[world]', x=129.77, y=68.69, z=478.23]
-[30Nov2024 22:30:48.107] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1182, l='ServerLevel[world]', x=129.77, y=68.69, z=478.23]
-[30Nov2024 22:31:19.056] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Disconnected
-[30Nov2024 22:31:19.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
-[30Nov2024 22:31:19.071] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@61525607
-[30Nov2024 22:31:19.108] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[30Nov2024 22:31:19.110] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: patata0mega[/0:0:0:0:0:0:0:1%0:37454] logged in with entity id 1362 at (111.06780230093483, 76.79895270251488, 445.01376904573027)
-[30Nov2024 22:31:19.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega joined the game
-[30Nov2024 22:31:21.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Stone Age]
-[30Nov2024 22:31:24.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1450, l='ServerLevel[world]', x=77.15, y=70.32, z=401.13]
-[30Nov2024 22:31:24.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1450, l='ServerLevel[world]', x=77.15, y=70.32, z=401.13]
-[30Nov2024 22:31:24.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/1451, l='ServerLevel[world]', x=77.15, y=70.32, z=401.13]
-[30Nov2024 22:31:24.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Ink Sac'/1451, l='ServerLevel[world]', x=77.15, y=70.32, z=401.13]
-[30Nov2024 22:31:30.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1496, l='ServerLevel[world]', x=55.70, y=70.36, z=395.81]
-[30Nov2024 22:31:30.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1496, l='ServerLevel[world]', x=55.70, y=70.36, z=395.81]
-[30Nov2024 22:31:30.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1497, l='ServerLevel[world]', x=55.70, y=70.36, z=395.81]
-[30Nov2024 22:31:30.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1497, l='ServerLevel[world]', x=55.70, y=70.36, z=395.81]
-[30Nov2024 22:31:32.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1520, l='ServerLevel[world]', x=53.88, y=69.33, z=395.50]
-[30Nov2024 22:31:32.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1520, l='ServerLevel[world]', x=53.88, y=69.33, z=395.50]
-[30Nov2024 22:31:32.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1521, l='ServerLevel[world]', x=53.88, y=69.33, z=395.50]
-[30Nov2024 22:31:32.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1521, l='ServerLevel[world]', x=53.88, y=69.33, z=395.50]
-[30Nov2024 22:31:46.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1597, l='ServerLevel[world]', x=23.25, y=69.37, z=371.87]
-[30Nov2024 22:31:46.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/1597, l='ServerLevel[world]', x=23.25, y=69.37, z=371.87]
-[30Nov2024 22:31:46.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1598, l='ServerLevel[world]', x=23.25, y=69.37, z=371.87]
-[30Nov2024 22:31:46.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Salmon'/1598, l='ServerLevel[world]', x=23.25, y=69.37, z=371.87]
-[30Nov2024 22:32:36.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has completed the challenge [One Story Ends, Another Begins]
-[30Nov2024 22:33:39.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Stone Age]
-[30Nov2024 22:35:01.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set the time to 1000]
-[30Nov2024 22:35:29.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set the time to 18000]
-[30Nov2024 22:35:53.954] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/2884, l='ServerLevel[world]', x=68.70, y=86.17, z=126.13]
-[30Nov2024 22:35:53.955] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/2884, l='ServerLevel[world]', x=68.70, y=86.17, z=126.13]
-[30Nov2024 22:36:20.453] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/3081, l='ServerLevel[world]', x=46.47, y=75.66, z=75.23]
-[30Nov2024 22:36:20.454] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/3081, l='ServerLevel[world]', x=46.47, y=75.66, z=75.23]
-[30Nov2024 22:36:20.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['White Wool'/3082, l='ServerLevel[world]', x=46.47, y=75.66, z=75.23]
-[30Nov2024 22:36:20.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['White Wool'/3082, l='ServerLevel[world]', x=46.47, y=75.66, z=75.23]
-[30Nov2024 22:36:20.455] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Mutton'/3083, l='ServerLevel[world]', x=46.47, y=75.66, z=75.23]
-[30Nov2024 22:36:20.456] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Raw Mutton'/3083, l='ServerLevel[world]', x=46.47, y=75.66, z=75.23]
-[30Nov2024 22:36:29.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Ice Bucket Challenge]
-[30Nov2024 22:36:46.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [We Need to Go Deeper]
-[30Nov2024 22:37:05.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [We Need to Go Deeper]
-[30Nov2024 22:37:05.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to patata0mega]
-[30Nov2024 22:38:34.523] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crimson Roots'/6280, l='ServerLevel[world]', x=-3.27, y=43.71, z=-45.43]
-[30Nov2024 22:38:34.524] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crimson Roots'/6280, l='ServerLevel[world]', x=-3.27, y=43.71, z=-45.43]
-[30Nov2024 22:38:34.524] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Brown Mushroom'/6281, l='ServerLevel[world]', x=-2.56, y=43.44, z=-47.65]
-[30Nov2024 22:38:34.524] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Brown Mushroom'/6281, l='ServerLevel[world]', x=-2.56, y=43.44, z=-47.65]
-[30Nov2024 22:38:34.525] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crimson Roots'/6282, l='ServerLevel[world]', x=-2.39, y=43.59, z=-45.41]
-[30Nov2024 22:38:34.525] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crimson Roots'/6282, l='ServerLevel[world]', x=-2.39, y=43.59, z=-45.41]
-[30Nov2024 22:38:34.525] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crimson Roots'/6284, l='ServerLevel[world]', x=-2.67, y=44.40, z=-44.28]
-[30Nov2024 22:38:34.526] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Crimson Roots'/6284, l='ServerLevel[world]', x=-2.67, y=44.40, z=-44.28]
-[30Nov2024 22:38:34.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5496ms or 109 ticks behind
-[30Nov2024 22:38:46.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BlockClusterEntity['Block Cluster'/6687, l='ServerLevel[world]', x=64.50, y=117.00, z=-60.50]
-[30Nov2024 22:38:46.814] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BlockClusterEntity['Block Cluster'/6687, l='ServerLevel[world]', x=64.50, y=117.00, z=-60.50]
-[30Nov2024 22:39:19.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
-[30Nov2024 22:39:21.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell from a high place
-[30Nov2024 22:39:29.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
-[30Nov2024 22:39:34.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
-[30Nov2024 22:40:16.687] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved too quickly! 0.687724834031016,3.97426815922433,9.299983310553202
-[30Nov2024 22:40:16.689] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 0.3490934704648936,4.500000174130054,9.810731802851272
-[30Nov2024 22:40:21.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BlockClusterEntity['Block Cluster'/7434, l='ServerLevel[world]', x=84.50, y=122.00, z=-49.50]
-[30Nov2024 22:41:27.818] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BlockClusterEntity['Block Cluster'/8257, l='ServerLevel[world]', x=88.50, y=123.00, z=-54.50]
-[30Nov2024 22:41:27.818] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BlockClusterEntity['Block Cluster'/8257, l='ServerLevel[world]', x=88.50, y=123.00, z=-54.50]
-[30Nov2024 22:41:55.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BlockClusterEntity['Block Cluster'/8506, l='ServerLevel[world]', x=91.50, y=125.00, z=-57.50]
-[30Nov2024 22:42:02.387] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved too quickly! 10.037603692256312,3.750000148225908,-0.894755133077183
-[30Nov2024 22:43:08.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set the time to 3083]
-[30Nov2024 22:44:03.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Summoned new Wither Storm]
-[30Nov2024 22:44:10.252] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/60, l='ServerLevel[world]', x=250.55, y=65.00, z=192.46] died, message: 'Nitwit was shot by a skull from Wither Storm'
-[30Nov2024 22:44:21.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Summoned new Wither Storm Segment]
-[30Nov2024 22:44:23.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Summoned new Wither Storm Segment]
-[30Nov2024 22:44:28.910] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/34, l='ServerLevel[world]', x=222.20, y=63.00, z=186.51] died, message: 'Weaponsmith was blown up by Wither Storm'
-[30Nov2024 22:44:37.703] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/58, l='ServerLevel[world]', x=255.22, y=115.14, z=208.24] died, message: 'Villager was shot by a skull from Wither Storm'
-[30Nov2024 22:44:37.704] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/11420, l='ServerLevel[world]', x=255.22, y=115.14, z=208.24]
-[30Nov2024 22:44:37.704] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/11420, l='ServerLevel[world]', x=255.22, y=115.14, z=208.24]
-[30Nov2024 22:45:05.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set own game mode to Survival Mode]
-[30Nov2024 22:45:07.807] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/57, l='ServerLevel[world]', x=248.90, y=64.00, z=188.96] died, message: 'Villager was shot by a skull from Wither Storm'
-[30Nov2024 22:45:17.175] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved too quickly! 5.628243028770669,-5.999987902364495,6.54978924501728
-[30Nov2024 22:45:17.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[30Nov2024 22:45:32.157] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/59, l='ServerLevel[world]', x=234.52, y=63.94, z=193.45] died, message: 'Villager was blown up by Wither Storm'
-[30Nov2024 22:45:32.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has reached the goal [Sky's the Limit]
-[30Nov2024 22:46:03.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has reached the goal [Brushing Shoulders With Death]
-[30Nov2024 22:46:09.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
-[30Nov2024 22:46:09.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D was slain by Wither Storm Segment
-[30Nov2024 22:46:19.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D was shot by a skull from Wither Storm
-[30Nov2024 22:46:19.010] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/12591, l='ServerLevel[world]', x=102.86, y=79.30, z=162.49]
-[30Nov2024 22:46:26.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D was shot by a skull from Wither Storm
-[30Nov2024 22:46:26.609] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/12873, l='ServerLevel[world]', x=92.30, y=87.00, z=160.30]
-[30Nov2024 22:46:26.609] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/12874, l='ServerLevel[world]', x=92.30, y=88.32, z=160.30]
-[30Nov2024 22:46:32.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set own game mode to Creative Mode]
-[30Nov2024 22:47:15.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell out of the world
-[30Nov2024 22:47:15.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D fell out of the world
-[30Nov2024 22:47:16.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Killed 622 entities]
-[30Nov2024 22:47:16.005] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity WitherSkullEntity['Wither Skull'/13218, l='ServerLevel[world]', x=216.34, y=126.75, z=306.24]
-[30Nov2024 22:47:28.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14459, l='ServerLevel[world]', x=263.69, y=65.69, z=192.50]
-[30Nov2024 22:47:28.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14459, l='ServerLevel[world]', x=263.69, y=65.69, z=192.50]
-[30Nov2024 22:47:28.906] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14460, l='ServerLevel[world]', x=249.56, y=72.61, z=214.29]
-[30Nov2024 22:47:28.907] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14460, l='ServerLevel[world]', x=249.56, y=72.61, z=214.29]
-[30Nov2024 22:47:28.907] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/14461, l='ServerLevel[world]', x=249.61, y=73.56, z=206.42]
-[30Nov2024 22:47:28.908] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/14461, l='ServerLevel[world]', x=249.61, y=73.56, z=206.42]
-[30Nov2024 22:47:28.908] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Torch'/14462, l='ServerLevel[world]', x=239.43, y=66.48, z=192.61]
-[30Nov2024 22:47:28.909] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Torch'/14462, l='ServerLevel[world]', x=239.43, y=66.48, z=192.61]
-[30Nov2024 22:47:28.909] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14463, l='ServerLevel[world]', x=244.31, y=63.32, z=197.56]
-[30Nov2024 22:47:28.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14463, l='ServerLevel[world]', x=244.31, y=63.32, z=197.56]
-[30Nov2024 22:47:28.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14464, l='ServerLevel[world]', x=247.65, y=63.58, z=197.54]
-[30Nov2024 22:47:28.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14464, l='ServerLevel[world]', x=247.65, y=63.58, z=197.54]
-[30Nov2024 22:47:28.911] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14465, l='ServerLevel[world]', x=257.63, y=68.64, z=219.45]
-[30Nov2024 22:47:28.911] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14465, l='ServerLevel[world]', x=257.63, y=68.64, z=219.45]
-[30Nov2024 22:47:28.912] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/14466, l='ServerLevel[world]', x=262.59, y=67.29, z=194.27]
-[30Nov2024 22:47:28.912] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/14466, l='ServerLevel[world]', x=262.59, y=67.29, z=194.27]
-[30Nov2024 22:47:28.912] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14468, l='ServerLevel[world]', x=267.34, y=65.69, z=198.54]
-[30Nov2024 22:47:28.913] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14468, l='ServerLevel[world]', x=267.34, y=65.69, z=198.54]
-[30Nov2024 22:47:28.913] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14469, l='ServerLevel[world]', x=258.32, y=62.29, z=195.32]
-[30Nov2024 22:47:28.913] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14469, l='ServerLevel[world]', x=258.32, y=62.29, z=195.32]
-[30Nov2024 22:47:28.913] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/14470, l='ServerLevel[world]', x=240.67, y=64.65, z=198.56]
-[30Nov2024 22:47:28.914] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/14470, l='ServerLevel[world]', x=240.67, y=64.65, z=198.56]
-[30Nov2024 22:47:28.914] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14471, l='ServerLevel[world]', x=259.68, y=68.28, z=208.68]
-[30Nov2024 22:47:28.914] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14471, l='ServerLevel[world]', x=259.68, y=68.28, z=208.68]
-[30Nov2024 22:47:28.915] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14473, l='ServerLevel[world]', x=252.31, y=63.31, z=193.55]
-[30Nov2024 22:47:28.915] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14473, l='ServerLevel[world]', x=252.31, y=63.31, z=193.55]
-[30Nov2024 22:47:31.247] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/14500, l='ServerLevel[world]', x=249.68, y=73.28, z=187.49]
-[30Nov2024 22:47:31.248] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/14500, l='ServerLevel[world]', x=249.68, y=73.28, z=187.49]
-[30Nov2024 22:47:31.248] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14501, l='ServerLevel[world]', x=276.52, y=70.40, z=206.31]
-[30Nov2024 22:47:31.248] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14501, l='ServerLevel[world]', x=276.52, y=70.40, z=206.31]
-[30Nov2024 22:47:31.249] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Torch'/14502, l='ServerLevel[world]', x=257.52, y=69.51, z=182.55]
-[30Nov2024 22:47:31.249] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Torch'/14502, l='ServerLevel[world]', x=257.52, y=69.51, z=182.55]
-[30Nov2024 22:47:31.249] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14503, l='ServerLevel[world]', x=268.49, y=64.59, z=183.43]
-[30Nov2024 22:47:31.250] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14503, l='ServerLevel[world]', x=268.49, y=64.59, z=183.43]
-[30Nov2024 22:47:31.250] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14504, l='ServerLevel[world]', x=260.34, y=65.66, z=208.74]
-[30Nov2024 22:47:31.250] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/14504, l='ServerLevel[world]', x=260.34, y=65.66, z=208.74]
-[30Nov2024 22:47:31.250] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14505, l='ServerLevel[world]', x=245.68, y=64.36, z=191.56]
-[30Nov2024 22:47:31.251] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14505, l='ServerLevel[world]', x=245.68, y=64.36, z=191.56]
-[30Nov2024 22:47:31.251] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14506, l='ServerLevel[world]', x=258.49, y=66.67, z=183.62]
-[30Nov2024 22:47:31.251] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/14506, l='ServerLevel[world]', x=258.49, y=66.67, z=183.62]
-[30Nov2024 22:47:31.252] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14507, l='ServerLevel[world]', x=260.31, y=64.37, z=187.53]
-[30Nov2024 22:47:31.252] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/14507, l='ServerLevel[world]', x=260.31, y=64.37, z=187.53]
-[30Nov2024 22:47:31.252] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/14508, l='ServerLevel[world]', x=257.38, y=60.30, z=196.54]
-[30Nov2024 22:47:31.253] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/14508, l='ServerLevel[world]', x=257.38, y=60.30, z=196.54]
-[30Nov2024 22:47:55.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Summoned new Wither Storm Segment]
-[30Nov2024 22:48:04.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has completed the challenge [Cover Me in Debris]
-[30Nov2024 22:48:15.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has completed the challenge [Cover Me in Debris]
-[30Nov2024 22:48:21.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set own game mode to Survival Mode]
-[30Nov2024 22:48:29.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
-[30Nov2024 22:48:49.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has reached the goal [Brushing Shoulders With Death]
-[30Nov2024 22:48:52.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell from a high place
-[30Nov2024 22:49:04.727] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! -0.2930954755889843,-11.268806744627796,1.1596426282110315
-[30Nov2024 22:49:06.824] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! -0.8065244385804249,-11.83217064529741,-0.18950640618444936
-[30Nov2024 22:49:09.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D was doomed to fall by Wither Storm Segment
-[30Nov2024 22:49:27.818] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15109, l='ServerLevel[world]', x=198.30, y=67.64, z=293.46]
-[30Nov2024 22:49:27.819] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15110, l='ServerLevel[world]', x=198.74, y=68.40, z=273.47]
-[30Nov2024 22:49:27.819] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15111, l='ServerLevel[world]', x=199.28, y=68.38, z=271.44]
-[30Nov2024 22:49:27.820] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15112, l='ServerLevel[world]', x=199.26, y=68.45, z=272.73]
-[30Nov2024 22:49:27.820] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15113, l='ServerLevel[world]', x=199.42, y=68.55, z=275.51]
-[30Nov2024 22:49:27.820] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15114, l='ServerLevel[world]', x=200.58, y=67.57, z=268.38]
-[30Nov2024 22:49:27.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15115, l='ServerLevel[world]', x=200.43, y=68.66, z=274.71]
-[30Nov2024 22:49:27.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15116, l='ServerLevel[world]', x=200.38, y=68.51, z=275.63]
-[30Nov2024 22:49:27.821] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15117, l='ServerLevel[world]', x=201.28, y=67.50, z=268.34]
-[30Nov2024 22:49:27.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15118, l='ServerLevel[world]', x=201.60, y=68.69, z=272.44]
-[30Nov2024 22:49:27.822] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15119, l='ServerLevel[world]', x=202.74, y=67.69, z=269.63]
-[30Nov2024 22:49:27.823] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15122, l='ServerLevel[world]', x=204.34, y=66.45, z=264.65]
-[30Nov2024 22:49:27.824] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15123, l='ServerLevel[world]', x=205.26, y=70.54, z=285.33]
-[30Nov2024 22:49:27.824] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15126, l='ServerLevel[world]', x=208.32, y=69.46, z=272.51]
-[30Nov2024 22:49:27.825] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15127, l='ServerLevel[world]', x=211.43, y=66.34, z=257.44]
-[30Nov2024 22:49:27.825] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15128, l='ServerLevel[world]', x=211.37, y=67.32, z=259.29]
-[30Nov2024 22:49:27.826] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15129, l='ServerLevel[world]', x=211.31, y=70.29, z=278.51]
-[30Nov2024 22:49:27.826] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15130, l='ServerLevel[world]', x=212.61, y=67.60, z=259.31]
-[30Nov2024 22:49:27.827] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15131, l='ServerLevel[world]', x=214.63, y=70.25, z=272.35]
-[30Nov2024 22:49:27.828] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15132, l='ServerLevel[world]', x=215.51, y=65.74, z=247.73]
-[30Nov2024 22:49:27.828] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15133, l='ServerLevel[world]', x=215.64, y=70.31, z=278.74]
-[30Nov2024 22:49:27.830] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15135, l='ServerLevel[world]', x=218.62, y=65.73, z=242.51]
-[30Nov2024 22:49:27.831] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15136, l='ServerLevel[world]', x=220.39, y=71.57, z=274.26]
-[30Nov2024 22:49:27.831] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15137, l='ServerLevel[world]', x=220.75, y=71.72, z=285.46]
-[30Nov2024 22:49:27.832] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15138, l='ServerLevel[world]', x=221.74, y=71.68, z=287.38]
-[30Nov2024 22:49:27.833] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15140, l='ServerLevel[world]', x=223.58, y=68.56, z=258.30]
-[30Nov2024 22:49:27.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15141, l='ServerLevel[world]', x=223.50, y=68.75, z=259.74]
-[30Nov2024 22:49:27.834] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15142, l='ServerLevel[world]', x=223.53, y=69.51, z=268.70]
-[30Nov2024 22:49:27.835] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15143, l='ServerLevel[world]', x=224.63, y=65.66, z=245.47]
-[30Nov2024 22:49:27.836] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15144, l='ServerLevel[world]', x=224.55, y=67.43, z=251.38]
-[30Nov2024 22:49:27.837] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15145, l='ServerLevel[world]', x=224.54, y=71.59, z=287.30]
-[30Nov2024 22:49:27.838] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15146, l='ServerLevel[world]', x=225.25, y=65.57, z=239.73]
-[30Nov2024 22:49:27.838] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15147, l='ServerLevel[world]', x=225.71, y=66.26, z=249.50]
-[30Nov2024 22:49:27.839] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15148, l='ServerLevel[world]', x=225.36, y=69.58, z=264.72]
-[30Nov2024 22:49:27.840] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15149, l='ServerLevel[world]', x=226.54, y=70.50, z=269.32]
-[30Nov2024 22:49:27.841] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15150, l='ServerLevel[world]', x=226.74, y=71.35, z=287.55]
-[30Nov2024 22:49:27.841] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15152, l='ServerLevel[world]', x=228.39, y=65.71, z=239.54]
-[30Nov2024 22:49:27.842] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15153, l='ServerLevel[world]', x=228.70, y=71.61, z=289.64]
-[30Nov2024 22:49:27.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dandelion'/15154, l='ServerLevel[world]', x=229.34, y=71.42, z=273.28]
-[30Nov2024 22:49:27.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15155, l='ServerLevel[world]', x=229.40, y=71.48, z=285.73]
-[30Nov2024 22:49:27.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15156, l='ServerLevel[world]', x=230.26, y=71.34, z=277.50]
-[30Nov2024 22:49:27.844] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15157, l='ServerLevel[world]', x=231.60, y=71.55, z=286.49]
-[30Nov2024 22:49:27.844] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15158, l='ServerLevel[world]', x=231.58, y=71.65, z=288.31]
-[30Nov2024 22:49:27.844] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15160, l='ServerLevel[world]', x=232.42, y=71.72, z=289.38]
-[30Nov2024 22:49:27.844] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/15161, l='ServerLevel[world]', x=233.36, y=70.48, z=286.71]
-[30Nov2024 22:49:27.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sweet Berries'/15173, l='ServerLevel[world]', x=251.68, y=69.35, z=295.40]
-[30Nov2024 22:49:27.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15179, l='ServerLevel[world]', x=265.61, y=70.75, z=250.40]
-[30Nov2024 22:49:27.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15180, l='ServerLevel[world]', x=272.49, y=66.54, z=236.49]
-[30Nov2024 22:49:27.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15181, l='ServerLevel[world]', x=275.35, y=72.67, z=268.29]
-[30Nov2024 22:49:27.856] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15169, l='ServerLevel[world]', x=247.57, y=69.46, z=296.31]
-[30Nov2024 22:49:27.893] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15124, l='ServerLevel[world]', x=206.59, y=68.26, z=297.33]
-[30Nov2024 22:49:27.894] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/15189, l='ServerLevel[world]', x=291.61, y=70.72, z=287.63]
-[30Nov2024 22:49:27.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
-[30Nov2024 22:49:32.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set own game mode to Creative Mode]
-[30Nov2024 22:50:15.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Applied effect Health Boost to patata0mega]
-[30Nov2024 22:50:54.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Applied effect Absorption to patata0mega]
-[30Nov2024 22:51:19.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Applied effect Instant Health to patata0mega]
-[30Nov2024 22:52:13.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3769ms or 75 ticks behind
-[30Nov2024 22:53:00.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Summoned new Wither Storm Head]
-[30Nov2024 22:53:24.554] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/16874, l='ServerLevel[world]', x=263.43, y=156.39, z=246.16]
-[30Nov2024 22:53:24.555] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wither Rose'/16874, l='ServerLevel[world]', x=263.43, y=156.39, z=246.16]
-[30Nov2024 22:53:24.555] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/16875, l='ServerLevel[world]', x=263.43, y=156.39, z=246.16]
-[30Nov2024 22:53:24.555] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rotten Flesh'/16875, l='ServerLevel[world]', x=263.43, y=156.39, z=246.16]
-[30Nov2024 22:53:31.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
-[30Nov2024 22:53:31.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Infinite Potential]
-[30Nov2024 22:53:42.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
-[30Nov2024 22:54:01.512] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16987, l='ServerLevel[world]', x=324.34, y=49.45, z=294.38]
-[30Nov2024 22:54:01.513] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16987, l='ServerLevel[world]', x=324.34, y=49.45, z=294.38]
-[30Nov2024 22:54:01.513] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16988, l='ServerLevel[world]', x=324.67, y=49.26, z=293.39]
-[30Nov2024 22:54:01.514] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16988, l='ServerLevel[world]', x=324.67, y=49.26, z=293.39]
-[30Nov2024 22:54:01.514] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16989, l='ServerLevel[world]', x=324.48, y=50.54, z=296.74]
-[30Nov2024 22:54:01.514] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16989, l='ServerLevel[world]', x=324.48, y=50.54, z=296.74]
-[30Nov2024 22:54:01.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16990, l='ServerLevel[world]', x=325.36, y=50.34, z=295.69]
-[30Nov2024 22:54:01.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16990, l='ServerLevel[world]', x=325.36, y=50.34, z=295.69]
-[30Nov2024 22:54:01.515] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16991, l='ServerLevel[world]', x=327.35, y=49.29, z=293.51]
-[30Nov2024 22:54:01.546] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/16991, l='ServerLevel[world]', x=327.35, y=49.29, z=293.51]
-[30Nov2024 22:54:01.549] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 9.619804679504284,3.750000149011612,-1.4078376958531749
-[30Nov2024 22:54:01.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5920ms or 118 ticks behind
-[30Nov2024 22:55:03.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
-[30Nov2024 22:55:59.268] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bell'/18262, l='ServerLevel[world]', x=249.46, y=65.61, z=227.74]
-[30Nov2024 22:55:59.268] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bell'/18262, l='ServerLevel[world]', x=249.46, y=65.61, z=227.74]
-[30Nov2024 22:55:59.269] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18263, l='ServerLevel[world]', x=266.28, y=65.52, z=231.60]
-[30Nov2024 22:55:59.269] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18263, l='ServerLevel[world]', x=266.28, y=65.52, z=231.60]
-[30Nov2024 22:55:59.269] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18264, l='ServerLevel[world]', x=277.50, y=65.66, z=224.55]
-[30Nov2024 22:55:59.269] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18264, l='ServerLevel[world]', x=277.50, y=65.66, z=224.55]
-[30Nov2024 22:55:59.270] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18266, l='ServerLevel[world]', x=291.35, y=68.70, z=247.35]
-[30Nov2024 22:55:59.270] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18266, l='ServerLevel[world]', x=291.35, y=68.70, z=247.35]
-[30Nov2024 22:55:59.270] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18267, l='ServerLevel[world]', x=292.44, y=68.46, z=249.71]
-[30Nov2024 22:55:59.270] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18267, l='ServerLevel[world]', x=292.44, y=68.46, z=249.71]
-[30Nov2024 22:55:59.271] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18268, l='ServerLevel[world]', x=294.62, y=68.45, z=244.34]
-[30Nov2024 22:55:59.271] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18268, l='ServerLevel[world]', x=294.62, y=68.45, z=244.34]
-[30Nov2024 22:55:59.271] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18269, l='ServerLevel[world]', x=299.53, y=67.56, z=222.48]
-[30Nov2024 22:55:59.272] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18269, l='ServerLevel[world]', x=299.53, y=67.56, z=222.48]
-[30Nov2024 22:55:59.272] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18270, l='ServerLevel[world]', x=299.51, y=68.44, z=228.53]
-[30Nov2024 22:55:59.272] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18270, l='ServerLevel[world]', x=299.51, y=68.44, z=228.53]
-[30Nov2024 22:55:59.272] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18271, l='ServerLevel[world]', x=301.49, y=67.52, z=225.59]
-[30Nov2024 22:55:59.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18271, l='ServerLevel[world]', x=301.49, y=67.52, z=225.59]
-[30Nov2024 22:55:59.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18272, l='ServerLevel[world]', x=304.29, y=67.28, z=271.43]
-[30Nov2024 22:55:59.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18272, l='ServerLevel[world]', x=304.29, y=67.28, z=271.43]
-[30Nov2024 22:55:59.273] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18273, l='ServerLevel[world]', x=305.42, y=67.45, z=273.34]
-[30Nov2024 22:55:59.274] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18273, l='ServerLevel[world]', x=305.42, y=67.45, z=273.34]
-[30Nov2024 22:55:59.274] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18274, l='ServerLevel[world]', x=306.63, y=66.73, z=269.35]
-[30Nov2024 22:55:59.274] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18274, l='ServerLevel[world]', x=306.63, y=66.73, z=269.35]
-[30Nov2024 22:55:59.274] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18275, l='ServerLevel[world]', x=306.73, y=67.31, z=275.28]
-[30Nov2024 22:55:59.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18275, l='ServerLevel[world]', x=306.73, y=67.31, z=275.28]
-[30Nov2024 22:55:59.275] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18276, l='ServerLevel[world]', x=308.63, y=67.45, z=274.75]
-[30Nov2024 22:55:59.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18276, l='ServerLevel[world]', x=308.63, y=67.45, z=274.75]
-[30Nov2024 22:55:59.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18277, l='ServerLevel[world]', x=310.44, y=66.61, z=269.67]
-[30Nov2024 22:55:59.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18277, l='ServerLevel[world]', x=310.44, y=66.61, z=269.67]
-[30Nov2024 22:55:59.276] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18278, l='ServerLevel[world]', x=310.37, y=68.26, z=199.53]
-[30Nov2024 22:55:59.277] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18278, l='ServerLevel[world]', x=310.37, y=68.26, z=199.53]
-[30Nov2024 22:55:59.277] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18279, l='ServerLevel[world]', x=318.26, y=68.27, z=260.72]
-[30Nov2024 22:55:59.277] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18279, l='ServerLevel[world]', x=318.26, y=68.27, z=260.72]
-[30Nov2024 22:55:59.278] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18280, l='ServerLevel[world]', x=319.71, y=68.45, z=258.61]
-[30Nov2024 22:55:59.278] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18280, l='ServerLevel[world]', x=319.71, y=68.45, z=258.61]
-[30Nov2024 22:55:59.278] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dandelion'/18281, l='ServerLevel[world]', x=320.56, y=68.46, z=256.42]
-[30Nov2024 22:55:59.278] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dandelion'/18281, l='ServerLevel[world]', x=320.56, y=68.46, z=256.42]
-[30Nov2024 22:55:59.279] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18282, l='ServerLevel[world]', x=324.33, y=69.26, z=249.33]
-[30Nov2024 22:55:59.279] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18282, l='ServerLevel[world]', x=324.33, y=69.26, z=249.33]
-[30Nov2024 22:55:59.279] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dandelion'/18283, l='ServerLevel[world]', x=325.61, y=69.73, z=258.50]
-[30Nov2024 22:55:59.280] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dandelion'/18283, l='ServerLevel[world]', x=325.61, y=69.73, z=258.50]
-[30Nov2024 22:55:59.280] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18284, l='ServerLevel[world]', x=326.28, y=69.50, z=240.46]
-[30Nov2024 22:55:59.280] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18284, l='ServerLevel[world]', x=326.28, y=69.50, z=240.46]
-[30Nov2024 22:55:59.280] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18285, l='ServerLevel[world]', x=331.45, y=70.62, z=231.46]
-[30Nov2024 22:55:59.281] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Poppy'/18285, l='ServerLevel[world]', x=331.45, y=70.62, z=231.46]
-[30Nov2024 22:55:59.281] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18286, l='ServerLevel[world]', x=332.39, y=70.64, z=233.63]
-[30Nov2024 22:55:59.281] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18286, l='ServerLevel[world]', x=332.39, y=70.64, z=233.63]
-[30Nov2024 22:55:59.281] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18287, l='ServerLevel[world]', x=332.44, y=70.45, z=235.36]
-[30Nov2024 22:55:59.282] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/18287, l='ServerLevel[world]', x=332.44, y=70.45, z=235.36]
-[30Nov2024 22:55:59.292] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/17050, l='ServerLevel[world]', x=306.12, y=6.00, z=308.99]
-[30Nov2024 22:55:59.293] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/17161, l='ServerLevel[world]', x=282.77, y=4.00, z=309.28]
-[30Nov2024 22:55:59.294] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/17345, l='ServerLevel[world]', x=322.69, y=10.00, z=309.51]
-[30Nov2024 22:55:59.294] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/17366, l='ServerLevel[world]', x=327.73, y=11.00, z=309.83]
-[30Nov2024 22:55:59.296] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/17159, l='ServerLevel[world]', x=281.47, y=5.00, z=311.01]
-[30Nov2024 22:55:59.297] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/17054, l='ServerLevel[world]', x=297.35, y=5.00, z=311.39]
-[30Nov2024 22:55:59.297] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Arrow'/17048, l='ServerLevel[world]', x=300.91, y=5.00, z=311.49]
-[30Nov2024 22:55:59.298] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved too quickly! -8.621669582857066,-4.874979079722692,3.2119150531042635
-[30Nov2024 22:55:59.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
-[30Nov2024 22:56:20.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell out of the world
-[30Nov2024 22:56:20.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Killed patata0mega]
-[30Nov2024 22:56:31.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D fell out of the world
-[30Nov2024 22:56:31.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega fell out of the world
-[30Nov2024 22:56:31.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Killed 498 entities]
-[30Nov2024 22:57:45.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Summoned new Withered Symbiont]
-[30Nov2024 22:58:25.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Ice Bucket Challenge]
-[30Nov2024 22:58:25.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Isn't It Iron Pick]
-[30Nov2024 22:59:45.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Infinite Potential]
-[30Nov2024 23:04:17.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to patata0mega]
-[30Nov2024 23:12:46.142] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.129234074991246,0.0,2.112777423404623
-[30Nov2024 23:13:32.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Teleported I_4M_R3D to 0.5, 100.0, 0.5]
-[30Nov2024 23:13:49.683] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! -2.5908460355279956,0.0,10.162807548554184
-[30Nov2024 23:14:06.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to 1.00000005E7, 74.49390748022948, -240.02507271818945]
-[30Nov2024 23:14:07.065] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D moved too quickly! 10.628441947374483,0.0,2.361906775159156
-[30Nov2024 23:14:38.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Teleported patata0mega to I_4M_R3D]
-[30Nov2024 23:27:54.149] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
-[30Nov2024 23:27:54.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
-[30Nov2024 23:32:24.648] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
-[30Nov2024 23:32:24.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[01Dec2024 01:38:45.745] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[01Dec2024 01:38:45.748] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[01Dec2024 01:38:45.987] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[01Dec2024 01:38:46.050] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/serverpatatil/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[01Dec2024 01:38:46.497] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Dec2024 01:38:46.604] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Dec2024 01:38:46.615] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[01Dec2024 01:38:47.690] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[01Dec2024 01:38:47.825] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
+[01Dec2024 01:38:47.833] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
+[01Dec2024 01:38:47.833] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found witherstormmod.mixins.json:IMixinGameRenderer
+[01Dec2024 01:38:47.834] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/model/ModelRenderer (java.lang.ClassNotFoundException: null)
+[01Dec2024 01:38:47.835] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.model.ModelRenderer was not found witherstormmod.mixins.json:IMixinModelRenderer
+[01Dec2024 01:38:47.838] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER
+[01Dec2024 01:38:47.839] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/GameRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/GameRenderer for invalid dist DEDICATED_SERVER)
+[01Dec2024 01:38:47.839] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.GameRenderer was not found witherstormmod.mixins.json:MixinGameRenderer
+[01Dec2024 01:38:47.843] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/shader/ShaderGroup for invalid dist DEDICATED_SERVER
+[01Dec2024 01:38:47.843] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/shader/ShaderGroup (java.lang.RuntimeException: Attempted to load class net/minecraft/client/shader/ShaderGroup for invalid dist DEDICATED_SERVER)
+[01Dec2024 01:38:47.844] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.shader.ShaderGroup was not found witherstormmod.mixins.json:IMixinShaderGroup
+[01Dec2024 01:38:47.873] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/BlockModelRenderer for invalid dist DEDICATED_SERVER
+[01Dec2024 01:38:47.874] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/BlockModelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/BlockModelRenderer for invalid dist DEDICATED_SERVER)
+[01Dec2024 01:38:47.877] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.BlockModelRenderer was not found witherstormmod.mixins.json:IMixinBlockModelRenderer
+[01Dec2024 01:38:54.348] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[01Dec2024 01:38:54.462] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[01Dec2024 01:38:54.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Dec2024 01:38:55.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[01Dec2024 01:38:58.639] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Dec2024 01:38:59.408] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Dec2024 01:38:59.411] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Dec2024 01:38:59.412] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Dec2024 01:38:59.422] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Dec2024 01:38:59.425] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Dec2024 01:38:59.427] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+[01Dec2024 01:38:59.431] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[01Dec2024 01:38:59.432] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[01Dec2024 01:38:59.440] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, witherstormmod-1.16.5-1.0.3.jar, forge-1.16.5-36.2.42-universal.jar
+[01Dec2024 01:39:00.530] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Dec2024 01:39:01.241] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 940 advancements
+[01Dec2024 01:39:02.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[01Dec2024 01:39:02.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Dec2024 01:39:02.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Dec2024 01:39:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Dec2024 01:39:02.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Dec2024 01:39:02.907] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[01Dec2024 01:39:03.122] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Dec2024 01:39:03.123] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Dec2024 01:39:03.123] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Dec2024 01:39:03.124] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Dec2024 01:39:03.193] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/witherstormmod-server.toml is not correct. Correcting
+[01Dec2024 01:39:03.195] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Dec2024 01:39:03.196] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.shouldChunkLoadWhenNoPlayers was corrected from null to its default, false. 
+[01Dec2024 01:39:03.196] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.shouldAccelerateWhenTargetStopped was corrected from null to its default, true. 
+[01Dec2024 01:39:03.197] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetStationaryChunkRadius was corrected from null to its default, 8. 
+[01Dec2024 01:39:03.198] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playerPickupChance was corrected from null to its default, 4. 
+[01Dec2024 01:39:03.199] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.evolutionAttributeModifier was corrected from null to its default, 1.0. 
+[01Dec2024 01:39:03.200] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetStationaryMinutes was corrected from null to its default, 30. 
+[01Dec2024 01:39:03.200] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetRunawayMinutes was corrected from null to its default, 10. 
+[01Dec2024 01:39:03.201] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.invulnerabilityTime was corrected from null to its default, 50. 
+[01Dec2024 01:39:03.202] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetStationaryFlyingSpeed was corrected from null to its default, 0.4. 
+[01Dec2024 01:39:03.202] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.slowFlyingSpeed was corrected from null to its default, 0.02. 
+[01Dec2024 01:39:03.203] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.usePhaseAsDistanceMultiplier was corrected from null to its default, true. 
+[01Dec2024 01:39:03.204] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.distanceMultiplier was corrected from null to its default, 1.0. 
+[01Dec2024 01:39:03.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.accelerateOnPhaseChange was corrected from null to its default, true. 
+[01Dec2024 01:39:03.205] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetRunawayAttempts was corrected from null to its default, true. 
+[01Dec2024 01:39:03.206] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetRunawayAttemptMinutes was corrected from null to its default, 2. 
+[01Dec2024 01:39:03.207] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targetRunawayAttemptsRequired was corrected from null to its default, 5. 
+[01Dec2024 01:39:03.207] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.minutesTillRunawayAttemptDiminish was corrected from null to its default, 16. 
+[01Dec2024 01:39:03.208] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.targettingDistractiosnEnabled was corrected from null to its default, true. 
+[01Dec2024 01:39:03.209] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.distractionTimeMinutes was corrected from null to its default, 25. 
+[01Dec2024 01:39:03.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.maximumDistractionDistance was corrected from null to its default, 1000. 
+[01Dec2024 01:39:03.210] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.minimumDistractionDistance was corrected from null to its default, 50. 
+[01Dec2024 01:39:03.211] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.randomDistractionChances was corrected from null to its default, true. 
+[01Dec2024 01:39:03.215] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.searchableRangeMultiplier was corrected from null to its default, 1. 
+[01Dec2024 01:39:03.215] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.distractionWaitTime was corrected from null to its default, 2. 
+[01Dec2024 01:39:03.219] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.clustersRemoveItems was corrected from null to its default, true. 
+[01Dec2024 01:39:03.222] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.squashHitbox was corrected from null to its default, false. 
+[01Dec2024 01:39:03.223] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.hunchbackClusterPickupInterval was corrected from null to its default, 20. 
+[01Dec2024 01:39:03.224] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.clusterPickupInterval was corrected from null to its default, 40. 
+[01Dec2024 01:39:03.225] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.flyingHeight was corrected from null to its default, 75. 
+[01Dec2024 01:39:03.226] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.tillShouldShowHole was corrected from null to its default, 6. 
+[01Dec2024 01:39:03.226] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Dec2024 01:39:03.229] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.witherSicknessEnabled was corrected from null to its default, true. 
+[01Dec2024 01:39:03.230] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.sickenedMobConversions was corrected from null to its default, true. 
+[01Dec2024 01:39:03.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.increaseAmplifier was corrected from null to its default, true. 
+[01Dec2024 01:39:03.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.requiredContacts was corrected from null to its default, 6. 
+[01Dec2024 01:39:03.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.requiredProximitySeconds was corrected from null to its default, 600. 
+[01Dec2024 01:39:03.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.applicationDelay was corrected from null to its default, 720. 
+[01Dec2024 01:39:03.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.cureDelay was corrected from null to its default, 480. 
+[01Dec2024 01:39:03.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.lowImmuneRequiredProximitySeconds was corrected from null to its default, 360. 
+[01Dec2024 01:39:03.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.lowImmuneApplicationDelay was corrected from null to its default, 410. 
+[01Dec2024 01:39:03.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.lowImmuneCureDelay was corrected from null to its default, 480. 
+[01Dec2024 01:39:03.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.proximitySecondsModifierMax was corrected from null to its default, 180. 
+[01Dec2024 01:39:03.241] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.applicationDelayModifierMax was corrected from null to its default, 300. 
+[01Dec2024 01:39:03.242] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.cureDelayModifierMax was corrected from null to its default, 180. 
+[01Dec2024 01:39:03.243] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.lowImmuneProximityModifierMax was corrected from null to its default, 180. 
+[01Dec2024 01:39:03.245] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.lowImmuneApplicationModifierMax was corrected from null to its default, 140. 
+[01Dec2024 01:39:03.246] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.wither sickness.lowImmuneCureDelayModifierMax was corrected from null to its default, 180. 
+[01Dec2024 01:39:03.247] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Dec2024 01:39:03.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.craftFuseTicks was corrected from null to its default, 12000. 
+[01Dec2024 01:39:03.248] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.catchFireFuseTicks was corrected from null to its default, 1200. 
+[01Dec2024 01:39:03.252] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.shouldDropFromInventory was corrected from null to its default, true. 
+[01Dec2024 01:39:03.253] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.formidibomb.dropInterval was corrected from null to its default, 4. 
+[01Dec2024 01:39:03.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing dead was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Dec2024 01:39:03.254] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing dead.revivalTimer was corrected from null to its default, true. 
+[01Dec2024 01:39:03.255] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing dead.revivalTimeMinutes was corrected from null to its default, 60. 
+[01Dec2024 01:39:03.255] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.playing dead.revivalPlayerProtection was corrected from null to its default, 3. 
+[01Dec2024 01:39:03.256] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered symbiont was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Dec2024 01:39:03.258] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered symbiont.minimumSpawnCheckInterval was corrected from null to its default, 60. 
+[01Dec2024 01:39:03.259] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered symbiont.witherStormSummingDelay was corrected from null to its default, 10. 
+[01Dec2024 01:39:03.264] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered symbiont.playerInvulnerableTime was corrected from null to its default, 5. 
+[01Dec2024 01:39:03.264] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered symbiont.playerSummoningDelay was corrected from null to its default, 10. 
+[01Dec2024 01:39:03.265] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.withered symbiont.playerSummoningDelayOnKill was corrected from null to its default, 40. 
+[01Dec2024 01:39:03.355] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[01Dec2024 01:39:03.357] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[01Dec2024 01:39:03.359] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[01Dec2024 01:39:03.360] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[01Dec2024 01:39:03.360] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[01Dec2024 01:39:03.361] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[01Dec2024 01:39:03.361] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[01Dec2024 01:39:03.361] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[01Dec2024 01:39:03.362] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[01Dec2024 01:39:03.371] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[01Dec2024 01:39:03.371] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[01Dec2024 01:39:03.372] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[01Dec2024 01:39:03.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Dec2024 01:39:09.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Dec2024 01:39:09.433] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Dec2024 01:39:09.634] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Dec2024 01:39:10.121] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Dec2024 01:39:10.681] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Dec2024 01:39:11.099] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Dec2024 01:39:11.603] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Dec2024 01:39:12.100] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[01Dec2024 01:39:12.595] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[01Dec2024 01:39:13.102] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[01Dec2024 01:39:13.595] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[01Dec2024 01:39:14.095] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[01Dec2024 01:39:14.609] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[01Dec2024 01:39:15.111] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[01Dec2024 01:39:15.611] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[01Dec2024 01:39:16.097] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[01Dec2024 01:39:16.598] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[01Dec2024 01:39:17.095] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[01Dec2024 01:39:17.600] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[01Dec2024 01:39:18.094] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[01Dec2024 01:39:18.601] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[01Dec2024 01:39:19.113] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[01Dec2024 01:39:19.607] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 18%
+[01Dec2024 01:39:20.098] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 30%
+[01Dec2024 01:39:20.604] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[01Dec2024 01:39:21.097] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[01Dec2024 01:39:21.598] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[01Dec2024 01:39:22.095] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[01Dec2024 01:39:22.595] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[01Dec2024 01:39:24.253] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[01Dec2024 01:39:24.253] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[01Dec2024 01:39:24.254] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[01Dec2024 01:39:25.175] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[01Dec2024 01:39:25.175] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[01Dec2024 01:39:26.663] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[01Dec2024 01:39:26.663] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[01Dec2024 01:39:26.663] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[01Dec2024 01:39:27.369] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[01Dec2024 01:39:28.809] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[01Dec2024 01:39:28.809] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[01Dec2024 01:39:28.811] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[01Dec2024 01:39:28.855] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 19761 ms
+[01Dec2024 01:39:28.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.707s)! For help, type "help"
+[01Dec2024 01:47:57.191] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@630cd783[id=<null>,name=I_4M_R3D,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:43310) lost connection: Timed out
+[01Dec2024 01:49:19.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Dec2024 01:49:19.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 01:49:19.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 01:49:19.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 01:49:19.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 01:49:19.257] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 01:49:19.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 01:49:19.259] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 01:49:19.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 01:49:19.260] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 01:49:19.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[01Dec2024 01:49:19.261] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[01Dec2024 01:49:19.275] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 01:49:19.280] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 01:49:19.280] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 01:49:19.281] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
