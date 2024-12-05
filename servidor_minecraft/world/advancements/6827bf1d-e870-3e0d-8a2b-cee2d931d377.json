@@ -1,318 +1,223 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
+  "mca:recipes/building_blocks/headstones": {
     "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
+      "has_ingredients": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:hammock_cyan_from_white": {
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_red_from_white": {
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_green_from_white": {
+  "mca:recipes/misc/potions": {
     "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
-      "minecraft:spider": "2024-12-01 01:57:25 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "a_man_with_plushies:get_sudowoodo": {
+  "takesapillage:root": {
     "criteria": {
-      "get_sudowoodo": "2024-12-01 02:00:11 +0000"
+      "always": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_magenta_from_white": {
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_lime_from_white": {
+  "mca:recipes/building_blocks/rose_gold_block": {
     "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:hammock_magenta_from_white": {
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:hammock_brown_from_white": {
+  "tconstruct:tools/materials_and_you": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "crafted_book": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_black_from_white": {
+  "dungeons_arise:wda_root": {
     "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "WDA": "2024-12-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-12-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-05 03:31:55 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
+    "criteria": {
+      "has_item": "2024-12-05 03:30:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-01 02:13:19 +0000",
-      "minecraft:lukewarm_ocean": "2024-12-01 02:13:21 +0000",
-      "minecraft:wooded_hills": "2024-12-01 01:55:18 +0000",
-      "minecraft:plains": "2024-12-01 01:51:43 +0000"
+      "minecraft:taiga": "2024-12-05 03:34:12 +0000",
+      "minecraft:river": "2024-12-05 03:34:09 +0000",
+      "minecraft:plains": "2024-12-05 03:30:16 +0000"
     },
     "done": false
   },
-  "comforts:hammock_light_blue_from_white": {
+  "mca:root": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "village_taiga": "2024-12-05 03:30:16 +0000",
+      "village_savanna": "2024-12-05 03:30:16 +0000",
+      "village_snowy": "2024-12-05 03:30:16 +0000",
+      "village_desert": "2024-12-05 03:30:16 +0000",
+      "village_plains": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:hammock_blue_from_white": {
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
-      "slept_in_bed": "2024-12-01 01:55:05 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_gray_from_white": {
+  "create:root": {
     "criteria": {
-      "has_the_recipe": "2024-12-01 01:52:05 +0000",
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "0": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
-      "has_lots_of_items": "2024-12-01 01:59:07 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "a_man_with_plushies:first_rare_plushie": {
+  "mca:recipes/misc/books": {
     "criteria": {
-      "first_rare_plushie": "2024-12-01 01:55:43 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
     "criteria": {
-      "has_spider_eye": "2024-12-01 01:57:26 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:hammock_red_from_white": {
+  "mca:recipes/misc/blueprint": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:hammock_purple_from_white": {
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "mca:recipes/misc/whistle": {
     "criteria": {
-      "has_bone_meal": "2024-12-01 02:13:43 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
-      "killed_something": "2024-12-01 01:57:25 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "a_man_with_plushies:first_golden_plush_box": {
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
-      "first_golden_plush_box": "2024-12-01 01:52:02 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_pink_from_white": {
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
-  "comforts:hammock_pink_from_white": {
+  "mowziesmobs:root": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
+      "custom_test_name": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "a_man_with_plushies:first_spamton_voice_line": {
+  "mca:recipes/misc/staff_of_life": {
     "criteria": {
-      "first_spamton_voice_line": "2024-12-01 02:04:39 +0000"
+      "has_item": "2024-12-05 03:30:16 +0000"
     },
     "done": true
   },
-  "comforts:hammock_black_from_white": {
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_yellow_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_purple_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:spider": "2024-12-01 01:57:25 +0000"
-    },
-    "done": false
-  },
-  "comforts:sleeping_bag_orange_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_yellow_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_green_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_lime_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_blue_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_orange_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan_from_white": {
-    "criteria": {
-      "has_the_recipe": "2024-12-01 01:52:05 +0000",
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_plush_box": {
-    "criteria": {
-      "first_plush_box": "2024-12-01 01:52:00 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_brown_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_uncommon_plushie": {
-    "criteria": {
-      "first_uncommon_plushie": "2024-12-01 01:57:53 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_gray_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
-  "a_man_with_plushies:first_common_plushie": {
-    "criteria": {
-      "first_common_plushie": "2024-12-01 01:57:35 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_blue_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bonemeal": "2024-12-01 02:13:43 +0000"
+      "has_bed": "2024-12-05 03:31:55 +0000"
     },
     "done": true
   },
