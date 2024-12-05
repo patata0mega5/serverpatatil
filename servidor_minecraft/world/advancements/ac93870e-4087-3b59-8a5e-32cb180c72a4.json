@@ -1,22 +1,4 @@
 {
-  "mca:recipes/building_blocks/headstones": {
-    "criteria": {
-      "has_ingredients": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-05 03:49:53 +0000"
@@ -29,15 +11,15 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-05 03:53:54 +0000"
     },
     "done": true
   },
@@ -59,6 +41,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-05 03:51:59 +0000"
@@ -71,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-05 03:48:23 +0000"
@@ -80,6 +74,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
@@ -101,27 +101,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_crate": {
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
     "criteria": {
-      "has_planks": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_chair": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/rose_gold_ingot_smelting": {
-    "criteria": {
-      "has_item": "2024-12-05 03:42:43 +0000"
+      "has_planks": "2024-12-05 03:53:41 +0000"
     },
     "done": true
   },
@@ -179,15 +161,9 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
     "criteria": {
-      "custom_test_name": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-05 03:48:17 +0000"
+      "has_log": "2024-12-05 03:53:41 +0000"
     },
     "done": true
   },
@@ -215,31 +191,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/oak_kitchen_counter": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-05 03:48:17 +0000"
     },
@@ -258,21 +210,9 @@
     },
     "done": false
   },
-  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_table": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
     },
     "done": true
   },
@@ -288,9 +228,9 @@
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "cfm:recipes/cfm/birch_park_bench": {
     "criteria": {
-      "has_item": "2024-12-05 03:42:43 +0000"
+      "has_log": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
@@ -300,15 +240,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/rose_gold_ingot_blasting": {
+  "dungeons_arise:find_small_prairie_house": {
     "criteria": {
-      "has_item": "2024-12-05 03:42:43 +0000"
+      "location0": "2024-12-05 03:57:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "mca:recipes/misc/rose_gold_ingot_blasting": {
     "criteria": {
-      "has_planks": "2024-12-05 03:48:23 +0000"
+      "has_item": "2024-12-05 03:42:43 +0000"
     },
     "done": true
   },
@@ -330,15 +270,21 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/oak_desk": {
+  "cfm:recipes/cfm/birch_crate": {
     "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
+      "has_log": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
+  "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
+      "has_planks": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
@@ -348,9 +294,571 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-05 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-05 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-05 04:01:35 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:mushroom_abandonned/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-05 03:57:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2024-12-05 03:55:03 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-05 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-05 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2024-12-05 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-05 03:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-05 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-05 03:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-05 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-05 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-05 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-05 03:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-05 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-05 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-05 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2024-12-05 03:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-05 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-05 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2024-12-05 03:42:43 +0000",
+      "village_savanna": "2024-12-05 03:42:43 +0000",
+      "village_snowy": "2024-12-05 03:42:43 +0000",
+      "village_desert": "2024-12-05 03:42:43 +0000",
+      "village_plains": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 03:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-05 03:51:40 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-05 03:49:38 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2024-12-05 03:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-05 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeon:desert_temple_husk/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-05 03:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-05 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_ingot_smelting": {
+    "criteria": {
+      "has_item": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-05 03:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2024-12-05 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:48:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:40 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
+    "criteria": {
+      "has_stick": "2024-12-05 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-05 04:01:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-05 03:48:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-05 03:53:54 +0000"
     },
     "done": true
   },
@@ -396,27 +904,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2024-12-05 03:51:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2024-12-05 03:51:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2024-12-05 03:48:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "has_planks": "2024-12-05 03:48:23 +0000"
+      "frostmaw": "2024-12-05 04:02:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
@@ -444,18 +946,6 @@
     },
     "done": true
   },
-  "takesapillage:root": {
-    "criteria": {
-      "always": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
   "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
     "criteria": {
       "has_stick": "2024-12-05 03:49:45 +0000"
@@ -480,25 +970,7 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-05 03:49:53 +0000"
     },
@@ -510,57 +982,21 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/leather_to_stripes": {
-    "criteria": {
-      "has_leather": "2024-12-05 03:51:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-05 03:54:55 +0000",
       "minecraft:forest": "2024-12-05 03:51:41 +0000",
       "minecraft:taiga": "2024-12-05 03:45:52 +0000",
+      "minecraft:desert_hills": "2024-12-05 03:55:53 +0000",
+      "minecraft:desert": "2024-12-05 03:55:48 +0000",
+      "minecraft:savanna_plateau": "2024-12-05 03:55:02 +0000",
+      "minecraft:beach": "2024-12-05 03:54:54 +0000",
       "minecraft:river": "2024-12-05 03:45:26 +0000",
       "minecraft:wooded_hills": "2024-12-05 03:51:30 +0000",
+      "minecraft:savanna": "2024-12-05 03:54:48 +0000",
       "minecraft:plains": "2024-12-05 03:42:43 +0000"
     },
     "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-05 03:44:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-05 03:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 03:51:40 +0000"
-    },
-    "done": true
   },
   "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
     "criteria": {
@@ -571,18 +1007,6 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-05 03:48:23 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
     },
     "done": true
   },
@@ -604,24 +1028,6 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/stripped_oak_coffee_table": {
-    "criteria": {
-      "has_planks": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_cabinet": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 03:51:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 03:49:53 +0000"
@@ -637,18 +1043,6 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-05 03:48:23 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/tools/stone_fillet_knife": {
-    "criteria": {
-      "has_items": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-05 03:45:11 +0000"
     },
     "done": true
   },
@@ -676,9 +1070,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_leather": "2024-12-05 03:51:59 +0000"
+      "has_planks": "2024-12-05 03:53:54 +0000"
     },
     "done": true
   },
@@ -688,33 +1082,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-05 03:49:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-05 03:51:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-05 03:46:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_upgraded_gate": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
     },
     "done": true
   },
@@ -724,15 +1094,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_beef": "2024-12-05 03:51:59 +0000"
+      "has_planks": "2024-12-05 03:53:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "awesomedungeon:root": {
     "criteria": {
-      "has_potato": "2024-12-05 03:46:20 +0000"
+      "awesomedungeon:desert_temple_husk": "2024-12-05 03:55:58 +0000"
     },
     "done": true
   },
@@ -754,37 +1124,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "mca:root": {
-    "criteria": {
-      "village_taiga": "2024-12-05 03:42:43 +0000",
-      "village_savanna": "2024-12-05 03:42:43 +0000",
-      "village_snowy": "2024-12-05 03:42:43 +0000",
-      "village_desert": "2024-12-05 03:42:43 +0000",
-      "village_plains": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-05 03:51:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
@@ -794,27 +1142,9 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-05 03:50:00 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-05 03:42:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-05 03:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 03:51:40 +0000"
     },
     "done": true
   },
@@ -824,39 +1154,15 @@
     },
     "done": true
   },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2024-12-05 03:49:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-05 03:46:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 03:49:53 +0000"
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
+  "cfm:recipes/cfm/birch_cabinet": {
     "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-05 03:46:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-05 03:48:23 +0000"
+      "has_log": "2024-12-05 03:53:40 +0000"
     },
     "done": true
   },
@@ -866,15 +1172,9 @@
     },
     "done": true
   },
-  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
     "criteria": {
-      "has_stick": "2024-12-05 03:49:45 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/oak_park_bench": {
-    "criteria": {
-      "has_log": "2024-12-05 03:48:17 +0000"
+      "has_bottom": "2024-12-05 03:53:54 +0000"
     },
     "done": true
   },
