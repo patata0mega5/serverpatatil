@@ -175,12 +175,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-01 02:14:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-01 01:57:34 +0000"
@@ -190,6 +184,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-01 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 02:14:42 +0000"
     },
     "done": true
   },
@@ -211,15 +211,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-12-01 01:57:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-01 01:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-01 01:57:22 +0000"
     },
     "done": true
   },
@@ -235,15 +235,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-01 02:14:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-01 02:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-01 02:14:42 +0000"
     },
     "done": true
   },

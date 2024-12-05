@@ -123,15 +123,15 @@
     },
     "done": true
   },
-  "comforts:hammock_red_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-01 01:57:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_hammock": "2024-12-01 02:07:36 +0000"
     },
     "done": true
   },
@@ -159,15 +159,15 @@
     },
     "done": true
   },
-  "comforts:hammock_pink_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_hammock": "2024-12-01 02:07:36 +0000"
     },
     "done": true
   },
@@ -213,15 +213,15 @@
     },
     "done": false
   },
-  "comforts:hammock_yellow_from_white": {
-    "criteria": {
-      "has_hammock": "2024-12-01 02:07:36 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_hammock": "2024-12-01 02:07:36 +0000"
     },
     "done": true
   },
@@ -237,15 +237,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-01 01:55:43 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-01 01:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 01:55:43 +0000"
     },
     "done": true
   },
