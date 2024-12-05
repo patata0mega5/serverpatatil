@@ -717,3 +717,52 @@ java.lang.NullPointerException: null
 [05Dec2024 03:46:45.487] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Dec2024 03:46:45.487] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Dec2024 03:47:26.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium has made the advancement [Sweet Dreams]
+[05Dec2024 03:47:45.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [Sweet Dreams]
+[05Dec2024 03:48:02.377] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@125c126
+[05Dec2024 03:48:02.382] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: nutsuki_D_[/0:0:0:0:0:0:0:1%0:47560] logged in with entity id 1788 at (176.5, 64.0, 167.5)
+[05Dec2024 03:48:02.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nutsuki_D_ joined the game
+[05Dec2024 03:48:02.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nutsuki_D_ has made the advancement [Minecraft Comes Alive]
+[05Dec2024 03:48:03.337] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of nutsuki_D_ (18)
+[05Dec2024 03:48:03.338] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to nutsuki_D_
+[05Dec2024 03:49:53.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Stone Age]
+[05Dec2024 03:50:00.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Getting an Upgrade]
+[05Dec2024 03:50:02.176] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51762e1a
+[05Dec2024 03:50:02.181] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:43348] logged in with entity id 2400 at (168.5, 63.0, 186.5)
+[05Dec2024 03:50:02.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[05Dec2024 03:50:02.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Minecraft Comes Alive]
+[05Dec2024 03:50:03.732] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[05Dec2024 03:50:03.733] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[05Dec2024 03:51:10.385] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=267, y=77, z=162} BlockPos{x=175, y=60, z=185}
+[05Dec2024 03:51:10.852] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=267, y=77, z=162} BlockPos{x=177, y=61, z=186}
+[05Dec2024 03:51:20.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nutsuki_D_ has made the advancement [Best Friends Forever]
+[05Dec2024 03:51:38.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[05Dec2024 03:51:51.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium is bleeding...
+[05Dec2024 03:51:58.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium was slain by Wolf
+[05Dec2024 03:52:12.669] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Dec2024 03:52:12.670] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Dec2024 03:52:12.900] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Dec2024 03:52:12.906] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Dec2024 03:52:20.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee is bleeding...
+[05Dec2024 03:52:29.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee is bleeding...
+[05Dec2024 03:52:39.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made I_4M_R3D a server operator
+[05Dec2024 03:52:42.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee is bleeding...
+[05Dec2024 03:53:17.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: You whisper to okottee: pico jaja
+[05Dec2024 03:53:37.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <lukardium> agu....
+[05Dec2024 03:53:48.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [A Seedy Place]
+[05Dec2024 03:54:00.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> 607 68 556
+[05Dec2024 03:54:03.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[05Dec2024 03:54:03.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect @e speed 10000 100<--[HERE]
+[05Dec2024 03:54:06.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nutsuki_D_ has made the advancement [Stone Age]
+[05Dec2024 03:54:32.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set okottee's game mode to Creative Mode]
+[05Dec2024 03:54:32.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set yxrall's game mode to Creative Mode]
+[05Dec2024 03:54:32.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set nutsuki_D_'s game mode to Creative Mode]
+[05Dec2024 03:54:32.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set own game mode to Creative Mode]
+[05Dec2024 03:54:32.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [I_4M_R3D: Set lukardium's game mode to Creative Mode]
+[05Dec2024 03:54:33.238] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=268, y=66, z=158} BlockPos{x=268, y=67, z=157}
+[05Dec2024 03:54:40.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has reached the goal [Skyslime Island]
+[05Dec2024 03:54:45.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has reached the goal [Sky's the Limit]
+[05Dec2024 03:54:58.629] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved too quickly! -1.9618070185146053,0.0,9.834993207906223
+[05Dec2024 03:55:03.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [All Along The Watchtower]
+[05Dec2024 03:55:05.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Integer must not be more than 255, found 1000
+[05Dec2024 03:55:05.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...peed 9999 1000<--[HERE]
+[05Dec2024 03:55:58.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has completed the challenge [Find: Temple husk]
