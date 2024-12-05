@@ -766,3 +766,6 @@ java.lang.NullPointerException: null
 [05Dec2024 03:55:05.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Integer must not be more than 255, found 1000
 [05Dec2024 03:55:05.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...peed 9999 1000<--[HERE]
 [05Dec2024 03:55:58.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has completed the challenge [Find: Temple husk]
+[05Dec2024 03:57:10.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 03:57:10.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...ct give @r<--[HERE]
+[05Dec2024 03:57:24.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has completed the challenge [Find: Mushroom abandonned]
