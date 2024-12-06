@@ -8661,3 +8661,14 @@ java.lang.NullPointerException: null
 [06Dec2024 04:32:33.769] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Dec2024 04:32:33.778] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [06Dec2024 04:32:44.960] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of yxrall: {disabled=true, disconnected=true, uuid=ac93870e-4087-3b59-8a5e-32cb180c72a4, name=yxrall, group=null}
+[06Dec2024 04:36:00.550] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Undis'/9718, l='ServerLevel[world]', x=-798.35, y=72.00, z=-464.75] died, message: 'Undis was slain by Door Knight'
+[06Dec2024 04:37:13.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee is bleeding...
+[06Dec2024 04:37:33.508] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:37:33.519] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Dec2024 04:39:14.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> -1300 111
+[06Dec2024 04:39:21.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> -111
+[06Dec2024 04:42:33.576] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Dec2024 04:42:33.585] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Dec2024 04:42:50.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 is bleeding...
+[06Dec2024 04:43:11.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 was slain by Scarlet Persecutor
+[06Dec2024 04:46:06.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> 200 220

@@ -1268,6 +1268,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 04:34:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-06 02:30:42 +0000"
@@ -2090,6 +2096,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-06 02:27:32 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/ender_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-06 04:34:20 +0000"
     },
     "done": true
   },

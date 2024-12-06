@@ -760,3 +760,10 @@ java.lang.NullPointerException: null
 [06Dec2024 04:30:46.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
 [06Dec2024 04:30:46.946] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
 [06Dec2024 04:30:46.947] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[06Dec2024 04:36:00.550] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Undis'/9718, l='ServerLevel[world]', x=-798.35, y=72.00, z=-464.75] died, message: 'Undis was slain by Door Knight'
+[06Dec2024 04:37:13.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee is bleeding...
+[06Dec2024 04:39:14.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> -1300 111
+[06Dec2024 04:39:21.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> -111
+[06Dec2024 04:42:50.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 is bleeding...
+[06Dec2024 04:43:11.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 was slain by Scarlet Persecutor
+[06Dec2024 04:46:06.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> 200 220
