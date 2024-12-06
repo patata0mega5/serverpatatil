@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-06 16:20:59 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
     "criteria": {
       "has_item2": "2024-12-06 04:49:24 +0000"
@@ -873,6 +879,12 @@
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2024-12-06 16:14:26 +0000"
     },
     "done": true
   },
@@ -1692,6 +1704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-06 16:17:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-06 03:20:02 +0000"
@@ -2484,6 +2502,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-06 16:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-06 03:08:52 +0000"
@@ -2766,6 +2790,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-06 16:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:25:00 +0000"
@@ -2889,6 +2919,8 @@
       "minecraft:spider": "2024-12-06 04:41:48 +0000",
       "minecraft:creeper": "2024-12-06 15:03:01 +0000",
       "minecraft:evoker": "2024-12-06 15:51:01 +0000",
+      "minecraft:phantom": "2024-12-06 16:18:27 +0000",
+      "minecraft:witch": "2024-12-06 16:15:19 +0000",
       "minecraft:cave_spider": "2024-12-06 15:01:44 +0000",
       "minecraft:vex": "2024-12-06 15:52:41 +0000",
       "minecraft:zombie": "2024-12-06 03:46:20 +0000"
@@ -4120,6 +4152,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-06 04:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-06 16:17:35 +0000"
     },
     "done": true
   },

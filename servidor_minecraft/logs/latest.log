@@ -769,3 +769,17 @@ java.lang.NullPointerException: null
 [06Dec2024 16:16:28.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> vamo a esa weea gigante?
 [06Dec2024 16:17:08.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> encontre unas zapatillas que dan speed
 [06Dec2024 16:17:27.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [A True Source of Evil]
+[06Dec2024 16:18:25.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
+[06Dec2024 16:19:09.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> deveriamos tener una base
+[06Dec2024 16:19:20.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <yxrall> seee
+[06Dec2024 16:20:13.960] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: yxrall moved wrongly!
+[06Dec2024 16:20:25.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[06Dec2024 16:20:39.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[06Dec2024 16:21:59.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[06Dec2024 16:24:36.968] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@763f8862
+[06Dec2024 16:24:36.981] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _Orion_15632[/0:0:0:0:0:0:0:1%0:58942] logged in with entity id 12545 at (-907.0190555112039, 70.0, -489.69999998807907)
+[06Dec2024 16:24:36.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 joined the game
+[06Dec2024 16:24:38.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Orion_15632 (18)
+[06Dec2024 16:24:38.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Orion_15632
+[06Dec2024 16:25:57.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[06Dec2024 16:26:15.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <patata0mega> encontre palta otravez
