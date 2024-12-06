@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-06 15:50:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:31:15 +0000"
@@ -386,6 +392,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_sink": {
+    "criteria": {
+      "has_top": "2024-12-06 15:53:00 +0000"
     },
     "done": true
   },
@@ -509,6 +521,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-06 15:52:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:13:09 +0000"
@@ -592,6 +610,7 @@
       "minecraft:skeleton": "2024-12-06 04:17:53 +0000",
       "minecraft:spider": "2024-12-06 02:32:46 +0000",
       "minecraft:creeper": "2024-12-06 14:58:53 +0000",
+      "minecraft:evoker": "2024-12-06 15:48:33 +0000",
       "minecraft:stray": "2024-12-06 04:23:05 +0000",
       "minecraft:enderman": "2024-12-06 15:13:07 +0000",
       "minecraft:zombie": "2024-12-06 02:31:40 +0000"
@@ -944,6 +963,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-12-06 15:50:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-06 02:33:23 +0000"
@@ -1214,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2024-12-06 15:53:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 02:24:27 +0000"
@@ -1263,12 +1294,14 @@
       "minecraft:taiga": "2024-12-06 15:15:51 +0000",
       "minecraft:snowy_tundra": "2024-12-06 02:22:28 +0000",
       "minecraft:taiga_hills": "2024-12-06 15:15:34 +0000",
+      "minecraft:desert": "2024-12-06 15:46:14 +0000",
       "minecraft:frozen_river": "2024-12-06 02:52:23 +0000",
       "minecraft:beach": "2024-12-06 15:17:05 +0000",
       "minecraft:river": "2024-12-06 03:01:56 +0000",
       "minecraft:snowy_taiga": "2024-12-06 02:20:00 +0000",
       "minecraft:wooded_hills": "2024-12-06 15:17:23 +0000",
-      "minecraft:snowy_taiga_hills": "2024-12-06 04:09:58 +0000"
+      "minecraft:snowy_taiga_hills": "2024-12-06 04:09:58 +0000",
+      "minecraft:savanna": "2024-12-06 15:46:00 +0000"
     },
     "done": false
   },
@@ -1503,6 +1536,12 @@
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_log": "2024-12-06 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_terracotta": "2024-12-06 15:53:00 +0000"
     },
     "done": true
   },
@@ -1802,6 +1841,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2024-12-06 15:52:58 +0000"
     },
     "done": true
   },
@@ -2252,6 +2297,12 @@
   "minecraft:recipes/travelersbackpack/pig_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-06 15:50:40 +0000"
     },
     "done": true
   },

@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-06 15:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:25:00 +0000"
@@ -56,6 +62,12 @@
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-06 15:46:57 +0000"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-06 15:49:34 +0000"
     },
     "done": true
   },
@@ -635,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-06 15:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 03:26:31 +0000"
@@ -956,7 +980,9 @@
       "minecraft:vindicator": "2024-12-06 14:54:41 +0000",
       "minecraft:spider": "2024-12-06 04:41:48 +0000",
       "minecraft:creeper": "2024-12-06 15:03:01 +0000",
+      "minecraft:evoker": "2024-12-06 15:51:01 +0000",
       "minecraft:cave_spider": "2024-12-06 15:01:44 +0000",
+      "minecraft:vex": "2024-12-06 15:52:41 +0000",
       "minecraft:zombie": "2024-12-06 03:46:20 +0000"
     },
     "done": false
@@ -970,6 +996,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2024-12-06 03:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-06 15:45:37 +0000"
     },
     "done": true
   },
@@ -1070,6 +1102,12 @@
   "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2024-12-06 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-06 15:46:57 +0000"
     },
     "done": true
   },
@@ -1637,6 +1675,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-06 15:51:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 03:10:51 +0000"
@@ -2063,6 +2107,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-06 15:46:57 +0000"
     },
     "done": true
   },
@@ -2628,7 +2678,8 @@
     "criteria": {
       "beetroot_soup": "2024-12-06 03:10:44 +0000",
       "bread": "2024-12-06 03:14:03 +0000",
-      "golden_apple": "2024-12-06 14:53:39 +0000"
+      "golden_apple": "2024-12-06 14:53:39 +0000",
+      "golden_carrot": "2024-12-06 15:48:26 +0000"
     },
     "done": false
   },
@@ -3766,6 +3817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-06 15:46:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_chair": {
     "criteria": {
       "has_log": "2024-12-06 14:53:08 +0000"
@@ -3913,6 +3970,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-06 15:04:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-06 15:50:51 +0000"
     },
     "done": true
   },
