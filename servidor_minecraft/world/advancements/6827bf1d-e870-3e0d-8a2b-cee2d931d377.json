@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-06 04:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:48 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-06 04:09:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:31:15 +0000"
@@ -367,6 +379,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-06 04:19:20 +0000",
       "cooked_mutton": "2024-12-06 02:34:45 +0000",
       "beef": "2024-12-06 03:19:25 +0000",
       "baked_potato": "2024-12-06 03:22:11 +0000",
@@ -869,6 +882,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-06 04:17:53 +0000",
       "minecraft:spider": "2024-12-06 02:32:46 +0000",
       "minecraft:zombie": "2024-12-06 02:31:40 +0000"
     },
@@ -1196,6 +1210,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/casing": {
+    "criteria": {
+      "has_item": "2024-12-06 04:20:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-06 02:33:23 +0000"
@@ -1436,6 +1456,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/graphite_component_to_storage": {
+    "criteria": {
+      "graphite_has_storage": "2024-12-06 04:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-06 03:01:26 +0000"
@@ -1646,7 +1672,8 @@
       "minecraft:snowy_tundra": "2024-12-06 02:22:28 +0000",
       "minecraft:frozen_river": "2024-12-06 02:52:23 +0000",
       "minecraft:river": "2024-12-06 03:01:56 +0000",
-      "minecraft:snowy_taiga": "2024-12-06 02:20:00 +0000"
+      "minecraft:snowy_taiga": "2024-12-06 02:20:00 +0000",
+      "minecraft:snowy_taiga_hills": "2024-12-06 04:09:58 +0000"
     },
     "done": false
   },
