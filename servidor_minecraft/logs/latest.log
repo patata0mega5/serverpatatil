@@ -2500,3 +2500,56 @@ java.lang.NullPointerException: null
 [06Dec2024 02:25:20.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Minecraft Comes Alive]
 [06Dec2024 02:25:22.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Orion_15632 (18)
 [06Dec2024 02:25:22.776] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Orion_15632
+[06Dec2024 02:26:10.011] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Audrius'/258, l='ServerLevel[world]', x=-222.51, y=64.00, z=-263.61] died, message: 'Audrius was slain by Zombie'
+[06Dec2024 02:26:10.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[06Dec2024 02:26:25.815] [Server thread/INFO] [forge.net.mca.MCA/]: TextComponent{text='Rimas', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} has been infected
+[06Dec2024 02:27:25.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Suit Up]
+[06Dec2024 02:28:00.576] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ca26d64
+[06Dec2024 02:28:00.583] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:57518] logged in with entity id 2270 at (6.5, 85.0, 0.5)
+[06Dec2024 02:28:00.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[06Dec2024 02:28:00.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Minecraft Comes Alive]
+[06Dec2024 02:28:00.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Ice Bucket Challenge]
+[06Dec2024 02:28:02.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[06Dec2024 02:28:02.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D
+[06Dec2024 02:28:10.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71f670ca
+[06Dec2024 02:28:10.355] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: okottee[/0:0:0:0:0:0:0:1%0:57544] logged in with entity id 2413 at (-1.5, 81.0, 7.5)
+[06Dec2024 02:28:10.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee joined the game
+[06Dec2024 02:28:10.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [Minecraft Comes Alive]
+[06Dec2024 02:28:11.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of okottee (18)
+[06Dec2024 02:28:11.898] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to okottee
+[06Dec2024 02:28:46.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Acquire Hardware]
+[06Dec2024 02:28:50.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega is bleeding...
+[06Dec2024 02:29:22.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega was slain by Decrepit Skeleton
+[06Dec2024 02:30:26.124] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega moved wrongly!
+[06Dec2024 02:30:26.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Dec2024 02:31:13.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Dec2024 02:31:15.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Acquire Hardware]
+[06Dec2024 02:31:40.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Monster Hunter]
+[06Dec2024 02:31:43.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Dec2024 02:32:03.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[06Dec2024 02:32:23.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
+[06Dec2024 02:32:42.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
+[06Dec2024 02:33:01.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4017ms or 80 ticks behind
+[06Dec2024 02:33:04.502] [Worker-Main-22/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Dec2024 02:33:04.505] [Worker-Main-22/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Dec2024 02:33:04.617] [Worker-Main-22/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Dec2024 02:33:04.617] [Worker-Main-22/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[06Dec2024 02:33:20.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[06Dec2024 02:33:31.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [Stone Age]
+[06Dec2024 02:33:35.024] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1b5dc53e
+[06Dec2024 02:33:35.029] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lukardium[/0:0:0:0:0:0:0:1%0:39250] logged in with entity id 4696 at (10.5, 92.0, 4.5)
+[06Dec2024 02:33:35.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium joined the game
+[06Dec2024 02:33:35.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium has made the advancement [Minecraft Comes Alive]
+[06Dec2024 02:33:35.921] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lukardium (18)
+[06Dec2024 02:33:35.922] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lukardium
+[06Dec2024 02:33:39.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4164ms or 83 ticks behind
+[06Dec2024 02:33:58.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
+[06Dec2024 02:34:05.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [Getting an Upgrade]
+[06Dec2024 02:34:14.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Monster Hunter]
+[06Dec2024 02:34:16.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[06Dec2024 02:34:47.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[06Dec2024 02:35:31.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Dec2024 02:35:31.597] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
+[06Dec2024 02:35:31.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[06Dec2024 02:35:31.604] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata0mega
+[06Dec2024 02:35:31.730] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
