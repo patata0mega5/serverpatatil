@@ -927,6 +927,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-06 03:58:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 02:27:32 +0000"
@@ -1429,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-06 03:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 03:18:23 +0000"
@@ -1461,6 +1473,7 @@
       "bread": "2024-12-06 02:29:11 +0000",
       "rotten_flesh": "2024-12-06 02:59:47 +0000",
       "cooked_rabbit": "2024-12-06 03:08:07 +0000",
+      "mushroom_stew": "2024-12-06 03:58:47 +0000",
       "carrot": "2024-12-06 03:04:03 +0000"
     },
     "done": false
@@ -1732,6 +1745,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-06 03:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-06 03:58:43 +0000"
     },
     "done": true
   },
