@@ -521,6 +521,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-12-06 15:17:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2024-12-06 03:57:47 +0000"
@@ -585,7 +591,9 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-06 04:17:53 +0000",
       "minecraft:spider": "2024-12-06 02:32:46 +0000",
+      "minecraft:creeper": "2024-12-06 14:58:53 +0000",
       "minecraft:stray": "2024-12-06 04:23:05 +0000",
+      "minecraft:enderman": "2024-12-06 15:13:07 +0000",
       "minecraft:zombie": "2024-12-06 02:31:40 +0000"
     },
     "done": false
@@ -620,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-06 15:12:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2024-12-06 02:27:25 +0000"
@@ -650,15 +664,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
-    "criteria": {
-      "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/dragon_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
     },
     "done": true
   },
@@ -738,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-06 14:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-12-06 02:23:17 +0000"
@@ -747,6 +767,12 @@
   "cfm:recipes/cfm/spruce_table": {
     "criteria": {
       "has_log": "2024-12-06 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-06 15:12:04 +0000"
     },
     "done": true
   },
@@ -789,6 +815,12 @@
   "cfm:recipes/cfm/granite_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-06 15:24:19 +0000"
     },
     "done": true
   },
@@ -1227,10 +1259,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_mountains": "2024-12-06 02:24:12 +0000",
+      "minecraft:forest": "2024-12-06 15:17:02 +0000",
+      "minecraft:taiga": "2024-12-06 15:15:51 +0000",
       "minecraft:snowy_tundra": "2024-12-06 02:22:28 +0000",
+      "minecraft:taiga_hills": "2024-12-06 15:15:34 +0000",
       "minecraft:frozen_river": "2024-12-06 02:52:23 +0000",
+      "minecraft:beach": "2024-12-06 15:17:05 +0000",
       "minecraft:river": "2024-12-06 03:01:56 +0000",
       "minecraft:snowy_taiga": "2024-12-06 02:20:00 +0000",
+      "minecraft:wooded_hills": "2024-12-06 15:17:23 +0000",
       "minecraft:snowy_taiga_hills": "2024-12-06 04:09:58 +0000"
     },
     "done": false
@@ -1343,6 +1380,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2024-12-06 15:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-06 15:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-06 03:57:47 +0000"
@@ -1388,6 +1437,12 @@
   "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-06 14:34:12 +0000"
     },
     "done": true
   },
@@ -1472,6 +1527,12 @@
   "betterendforge:recipes/betterendforge/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-06 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-06 14:34:12 +0000"
     },
     "done": true
   },
@@ -1765,6 +1826,12 @@
   "minecraft:recipes/travelersbackpack/blaze_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-06 14:34:12 +0000"
     },
     "done": true
   },
@@ -2176,15 +2243,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/pig_smithing_diamond": {
-    "criteria": {
-      "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/travelersbackpack/standard_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pig_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
     },
     "done": true
   },
@@ -2260,6 +2327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-06 15:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
@@ -2323,6 +2396,18 @@
   "minecraft:recipes/travelersbackpack/quartz_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-06 15:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-06 15:12:10 +0000"
     },
     "done": true
   },
@@ -2464,15 +2549,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/dragon_smithing_iron": {
-    "criteria": {
-      "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
-    },
-    "done": true
-  },
   "druidcraft:druidcraft/bone_armor": {
     "criteria": {
       "bone_helm": "2024-12-06 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
     },
     "done": true
   },
@@ -2512,15 +2597,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/sandstone_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
+  "dungeons_arise:find_illager_fort": {
     "criteria": {
-      "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
+      "location0": "2024-12-06 15:15:50 +0000"
     },
     "done": true
   },
@@ -2599,6 +2690,12 @@
   "bigreactors:recipes/bigreactors.general/reprocessor/casing": {
     "criteria": {
       "has_item": "2024-12-06 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-06 15:09:19 +0000"
     },
     "done": true
   },
@@ -2767,6 +2864,12 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-06 15:25:29 +0000"
     },
     "done": true
   },
