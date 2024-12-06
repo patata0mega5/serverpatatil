@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-06 16:00:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bat_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-06 16:00:04 +0000"
     },
     "done": true
   },
@@ -137,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-06 02:23:35 +0000"
@@ -176,6 +194,12 @@
   "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -233,9 +257,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-06 04:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -263,9 +299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -332,6 +380,12 @@
   "cfm:recipes/cfm/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -419,6 +473,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/gold_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
@@ -452,6 +512,18 @@
   "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-06 16:00:04 +0000"
     },
     "done": true
   },
@@ -491,6 +563,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
@@ -500,6 +578,12 @@
   "betterendforge:recipes/betterendforge/leather_to_stripes": {
     "criteria": {
       "has_leather": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -557,6 +641,13 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2024-12-06 15:58:01 +0000",
+      "earth": "2024-12-06 15:58:02 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:31:15 +0000"
@@ -587,6 +678,18 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-06 02:32:47 +0000"
@@ -599,6 +702,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/ocelot_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
@@ -607,10 +716,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-06 15:55:04 +0000",
       "minecraft:skeleton": "2024-12-06 04:17:53 +0000",
       "minecraft:spider": "2024-12-06 02:32:46 +0000",
       "minecraft:creeper": "2024-12-06 14:58:53 +0000",
       "minecraft:evoker": "2024-12-06 15:48:33 +0000",
+      "minecraft:cave_spider": "2024-12-06 16:00:46 +0000",
       "minecraft:stray": "2024-12-06 04:23:05 +0000",
       "minecraft:enderman": "2024-12-06 15:13:07 +0000",
       "minecraft:zombie": "2024-12-06 02:31:40 +0000"
@@ -650,6 +761,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-06 15:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -720,6 +837,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-06 16:00:04 +0000"
     },
     "done": true
   },
@@ -825,6 +948,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
@@ -882,6 +1011,12 @@
   "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -1023,6 +1158,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/chicken_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
@@ -1032,6 +1173,12 @@
   "minecraft:recipes/travelersbackpack/sponge_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -1125,6 +1272,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-06 03:01:26 +0000"
@@ -1170,6 +1323,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -1269,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 15:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:13:09 +0000"
@@ -1362,6 +1527,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-06 02:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -1461,6 +1632,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-06 02:20:00 +0000"
@@ -1470,6 +1647,12 @@
   "minecraft:recipes/travelersbackpack/sponge_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-06 16:00:04 +0000"
     },
     "done": true
   },
@@ -1527,6 +1710,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/skeleton_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
@@ -1575,6 +1764,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
@@ -1614,6 +1809,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -1834,7 +2035,8 @@
       "beef": "2024-12-06 03:19:25 +0000",
       "baked_potato": "2024-12-06 03:22:11 +0000",
       "apple": "2024-12-06 02:52:55 +0000",
-      "bread": "2024-12-06 02:25:46 +0000"
+      "bread": "2024-12-06 02:25:46 +0000",
+      "golden_apple": "2024-12-06 16:02:52 +0000"
     },
     "done": false
   },
@@ -1898,6 +2100,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:13:09 +0000"
@@ -1937,6 +2145,18 @@
   "minecraft:recipes/travelersbackpack/netherite_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -1997,6 +2217,12 @@
   "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -2162,6 +2388,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/cake_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-12-06 14:18:33 +0000"
@@ -2228,6 +2460,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-06 02:33:23 +0000"
@@ -2258,9 +2502,21 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2024-12-06 15:57:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-06 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -2273,6 +2529,24 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:31:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/sky": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 15:58:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -2303,6 +2577,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-06 15:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -2426,6 +2706,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/bookshelf_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
@@ -2444,9 +2730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/quartz_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -2468,9 +2766,27 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 02:24:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
     },
     "done": true
   },
@@ -2546,6 +2862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 15:58:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:23 +0000"
@@ -2567,6 +2889,18 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_planks": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-06 16:00:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -2636,6 +2970,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2024-12-06 02:19:59 +0000"
@@ -2663,6 +3003,12 @@
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2024-12-06 15:15:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -2717,6 +3063,18 @@
   "minecraft:recipes/travelersbackpack/emerald_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:01 +0000"
     },
     "done": true
   },
@@ -2810,6 +3168,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-06 02:33:48 +0000"
@@ -2864,6 +3228,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2024-12-06 03:01:26 +0000"
@@ -2912,6 +3282,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2024-12-06 14:13:30 +0000"
@@ -2921,6 +3297,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-06 15:25:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -2966,6 +3348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-06 03:17:49 +0000"
@@ -2975,6 +3363,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-06 03:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 15:53:36 +0000"
     },
     "done": true
   },
@@ -3008,9 +3402,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-06 15:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/travelersbackpack/creeper_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-12-06 14:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/sky": {
+    "criteria": {
+      "has_item": "2024-12-06 15:58:01 +0000"
     },
     "done": true
   },
