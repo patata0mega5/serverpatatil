@@ -700,3 +700,7 @@ java.lang.NullPointerException: null
 [06Dec2024 14:07:07.137] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of patata0mega (18)
 [06Dec2024 14:07:07.140] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to patata0mega
 [06Dec2024 14:10:03.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Thick Skulled]
+[06Dec2024 14:13:46.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[06Dec2024 14:15:48.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[06Dec2024 14:16:14.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Amateur Archaeologist]
+[06Dec2024 14:17:02.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
