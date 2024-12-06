@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/slab": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-06 02:27:26 +0000"
@@ -338,6 +344,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:28:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/log_to_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 16:39:40 +0000"
     },
     "done": true
   },
@@ -485,6 +497,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2024-12-06 16:37:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:28:46 +0000"
@@ -515,6 +533,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2024-12-06 02:30:20 +0000"
@@ -536,6 +560,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-06 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2024-12-06 16:37:28 +0000"
     },
     "done": true
   },
@@ -667,6 +697,12 @@
   "cfm:recipes/cfm/spruce_chair": {
     "criteria": {
       "has_log": "2024-12-06 02:27:26 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/door": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
     },
     "done": true
   },
@@ -1042,9 +1078,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 16:37:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-06 03:33:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2024-12-06 16:37:24 +0000"
     },
     "done": true
   },
@@ -1059,8 +1107,10 @@
       "minecraft:snowy_mountains": "2024-12-06 02:35:12 +0000",
       "minecraft:snowy_tundra": "2024-12-06 02:26:11 +0000",
       "minecraft:frozen_river": "2024-12-06 02:35:24 +0000",
+      "minecraft:snowy_beach": "2024-12-06 16:35:40 +0000",
       "minecraft:river": "2024-12-06 02:25:20 +0000",
-      "minecraft:snowy_taiga": "2024-12-06 03:13:30 +0000"
+      "minecraft:snowy_taiga": "2024-12-06 03:13:30 +0000",
+      "minecraft:snowy_taiga_hills": "2024-12-06 16:34:33 +0000"
     },
     "done": false
   },
@@ -1238,6 +1288,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 16:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-06 03:18:27 +0000"
@@ -1322,6 +1378,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/sign": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-06 02:25:20 +0000"
@@ -1388,9 +1450,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/planks": {
+    "criteria": {
+      "has_log": "2024-12-06 16:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-06 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/button": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
     },
     "done": true
   },
@@ -1439,6 +1513,12 @@
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-06 02:27:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
     },
     "done": true
   },
@@ -1535,6 +1615,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 16:37:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/andesite_table": {
     "criteria": {
       "has_planks": "2024-12-06 03:18:27 +0000"
@@ -1592,6 +1678,12 @@
   "druidcraft:druidcraft/fiery_torch": {
     "criteria": {
       "collect": "2024-12-06 03:36:45 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2024-12-06 16:37:28 +0000"
     },
     "done": true
   },
@@ -1670,6 +1762,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-06 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/fence": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
     },
     "done": true
   },
@@ -1898,6 +1996,12 @@
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 16:37:28 +0000"
     },
     "done": true
   },
@@ -2147,6 +2251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-06 16:37:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2024-12-06 02:27:26 +0000"
@@ -2210,6 +2320,12 @@
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-06 02:25:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2024-12-06 16:41:40 +0000"
     },
     "done": true
   },
@@ -2306,6 +2422,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-12-06 02:30:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
     },
     "done": true
   },
@@ -2459,6 +2581,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-06 16:40:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-06 02:27:32 +0000"
@@ -2474,6 +2602,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-06 02:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
+    "criteria": {
+      "has_item": "2024-12-06 16:37:28 +0000"
     },
     "done": true
   },
