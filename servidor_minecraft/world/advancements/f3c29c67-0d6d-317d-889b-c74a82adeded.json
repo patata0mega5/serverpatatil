@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-06 03:03:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-06 02:28:10 +0000"
@@ -285,7 +291,9 @@
     "criteria": {
       "cooked_porkchop": "2024-12-06 02:36:14 +0000",
       "cooked_mutton": "2024-12-06 02:35:59 +0000",
-      "apple": "2024-12-06 02:51:45 +0000"
+      "cooked_beef": "2024-12-06 02:56:30 +0000",
+      "apple": "2024-12-06 02:51:45 +0000",
+      "melon_slice": "2024-12-06 03:00:46 +0000"
     },
     "done": false
   },
@@ -394,6 +402,12 @@
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2024-12-06 02:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-06 03:03:13 +0000"
     },
     "done": true
   },
@@ -714,6 +728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-06 02:55:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_table": {
     "criteria": {
       "has_log": "2024-12-06 02:31:08 +0000"
@@ -903,6 +923,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 03:03:13 +0000"
     },
     "done": true
   },
@@ -1218,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-06 02:55:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/pattern": {
     "criteria": {
       "has_item": "2024-12-06 02:33:20 +0000"
@@ -1293,6 +1325,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:09 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2024-12-06 02:55:02 +0000"
     },
     "done": true
   },

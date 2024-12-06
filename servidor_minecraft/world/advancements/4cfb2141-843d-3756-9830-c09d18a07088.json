@@ -247,7 +247,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-06 02:29:11 +0000"
+      "cooked_mutton": "2024-12-06 02:56:09 +0000",
+      "potato": "2024-12-06 02:55:45 +0000",
+      "bread": "2024-12-06 02:29:11 +0000",
+      "rotten_flesh": "2024-12-06 02:59:47 +0000"
     },
     "done": false
   },
@@ -530,7 +533,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-12-06 02:42:38 +0000",
-      "minecraft:stray": "2024-12-06 02:34:14 +0000"
+      "minecraft:stray": "2024-12-06 02:34:14 +0000",
+      "minecraft:zombie": "2024-12-06 02:53:55 +0000"
     },
     "done": false
   },
@@ -1150,6 +1154,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-06 02:27:03 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-06 02:56:53 +0000"
     },
     "done": true
   },
