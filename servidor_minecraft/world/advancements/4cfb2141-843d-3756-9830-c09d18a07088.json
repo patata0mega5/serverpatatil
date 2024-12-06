@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-12-06 03:15:31 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/iron_hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:28:46 +0000"
@@ -856,6 +862,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/casing": {
+    "criteria": {
+      "has_item": "2024-12-06 03:17:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-06 02:27:26 +0000"
@@ -1006,6 +1018,12 @@
     },
     "done": true
   },
+  "bigreactors:recipes/bigreactors.general/graphite_component_to_storage": {
+    "criteria": {
+      "graphite_has_storage": "2024-12-06 03:17:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-06 02:30:42 +0000"
@@ -1150,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-12-06 03:15:31 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
     "criteria": {
       "has_stick": "2024-12-06 02:27:16 +0000"
@@ -1179,7 +1203,8 @@
       "minecraft:snowy_mountains": "2024-12-06 02:35:12 +0000",
       "minecraft:snowy_tundra": "2024-12-06 02:26:11 +0000",
       "minecraft:frozen_river": "2024-12-06 02:35:24 +0000",
-      "minecraft:river": "2024-12-06 02:25:20 +0000"
+      "minecraft:river": "2024-12-06 02:25:20 +0000",
+      "minecraft:snowy_taiga": "2024-12-06 03:13:30 +0000"
     },
     "done": false
   },

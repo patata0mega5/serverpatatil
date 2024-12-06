@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-06 03:13:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-06 02:40:55 +0000"
@@ -107,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-12-06 02:48:39 +0000"
@@ -176,6 +188,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-06 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
@@ -302,6 +320,12 @@
   "cfm:recipes/cfm/green_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
@@ -475,6 +499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
@@ -499,6 +529,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:37:57 +0000"
@@ -514,6 +556,12 @@
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-06 03:13:57 +0000"
     },
     "done": true
   },
@@ -637,6 +685,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-06 02:36:10 +0000"
@@ -694,6 +748,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
@@ -769,9 +829,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_blinds": {
     "criteria": {
       "has_log": "2024-12-06 02:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-06 03:13:57 +0000"
     },
     "done": true
   },
@@ -849,6 +921,12 @@
     },
     "done": true
   },
+  "betterendforge:recipes/betterendforge/diorite_pedestal": {
+    "criteria": {
+      "has_diorite_pillar": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
@@ -907,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
@@ -928,6 +1012,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 02:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
@@ -1093,9 +1183,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-06 03:13:57 +0000"
     },
     "done": true
   },
@@ -1117,6 +1219,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-06 02:31:23 +0000"
@@ -1126,6 +1234,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-06 02:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
@@ -1285,6 +1399,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:43 +0000"
@@ -1336,6 +1456,12 @@
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-06 03:13:57 +0000"
     },
     "done": true
   },
@@ -1489,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
+    },
+    "done": true
+  },
   "bigreactors:recipes/bigreactors.turbine/turbine/basic/activefluidport_forge": {
     "criteria": {
       "has_item2": "2024-12-06 02:36:35 +0000"
@@ -1516,6 +1648,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
@@ -1675,6 +1813,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:37:57 +0000"
@@ -1684,6 +1828,12 @@
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-06 02:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-06 03:12:32 +0000"
     },
     "done": true
   },
@@ -1882,6 +2032,12 @@
   "cfm:recipes/cfm/purple_cooler": {
     "criteria": {
       "has_chest": "2024-12-06 03:02:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-06 03:16:11 +0000"
     },
     "done": true
   },
