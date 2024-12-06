@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-06 02:51:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-06 02:25:20 +0000"
@@ -332,6 +338,12 @@
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-06 02:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-06 02:51:42 +0000"
     },
     "done": true
   },
@@ -817,6 +829,12 @@
   "cfm:recipes/cfm/dark_oak_table": {
     "criteria": {
       "has_planks": "2024-12-06 02:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-06 02:51:42 +0000"
     },
     "done": true
   },
