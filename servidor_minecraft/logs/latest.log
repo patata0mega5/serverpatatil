@@ -2779,3 +2779,48 @@ java.lang.NullPointerException: null
 [06Dec2024 03:01:26.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Isn't It Iron Pick]
 [06Dec2024 03:03:18.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega is bleeding...
 [06Dec2024 03:04:04.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium has made the advancement [Hot Stuff]
+[06Dec2024 03:07:00.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega is bleeding...
+[06Dec2024 03:07:15.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega was slain by Vex
+[06Dec2024 03:07:22.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Stone Age]
+[06Dec2024 03:07:23.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[06Dec2024 03:07:59.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Suit Up]
+[06Dec2024 03:08:09.965] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@784f466
+[06Dec2024 03:08:09.971] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: yxrall[/0:0:0:0:0:0:0:1%0:51278] logged in with entity id 22932 at (5.5, 85.0, -2.5)
+[06Dec2024 03:08:09.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall joined the game
+[06Dec2024 03:08:10.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Minecraft Comes Alive]
+[06Dec2024 03:08:11.714] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of yxrall (18)
+[06Dec2024 03:08:11.715] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to yxrall
+[06Dec2024 03:08:11.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D has made the advancement [Take Aim]
+[06Dec2024 03:08:20.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Survival Mode]
+[06Dec2024 03:08:35.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06Dec2024 03:08:54.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4165ms or 83 ticks behind
+[06Dec2024 03:09:12.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[06Dec2024 03:09:30.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[06Dec2024 03:09:48.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3022ms or 60 ticks behind
+[06Dec2024 03:10:07.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4615ms or 92 ticks behind
+[06Dec2024 03:10:35.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13201ms or 264 ticks behind
+[06Dec2024 03:10:38.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Sweet Dreams]
+[06Dec2024 03:10:53.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 is bleeding...
+[06Dec2024 03:11:01.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10557ms or 211 ticks behind
+[06Dec2024 03:11:17.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 was slain by Scarlet Persecutor
+[06Dec2024 03:11:22.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6017ms or 120 ticks behind
+[06Dec2024 03:11:46.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9542ms or 190 ticks behind
+[06Dec2024 03:12:09.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7976ms or 159 ticks behind
+[06Dec2024 03:12:32.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8009ms or 160 ticks behind
+[06Dec2024 03:12:41.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Acquire Hardware]
+[06Dec2024 03:12:41.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Diamonds!]
+[06Dec2024 03:12:45.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium is bleeding...
+[06Dec2024 03:12:54.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6403ms or 128 ticks behind
+[06Dec2024 03:13:09.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Stone Age]
+[06Dec2024 03:13:19.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10012ms or 200 ticks behind
+[06Dec2024 03:13:20.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Amateur Archaeologist]
+[06Dec2024 03:13:38.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee is bleeding...
+[06Dec2024 03:13:40.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6436ms or 128 ticks behind
+[06Dec2024 03:13:40.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Isn't It Iron Pick]
+[06Dec2024 03:13:40.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: yxrall has made the advancement [Suit Up]
+[06Dec2024 03:13:56.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Not Today, Thank You]
+[06Dec2024 03:14:06.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11198ms or 223 ticks behind
+[06Dec2024 03:14:31.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9903ms or 198 ticks behind
+[06Dec2024 03:14:38.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lukardium has made the advancement [Acquire Hardware]
+[06Dec2024 03:15:06.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19898ms or 397 ticks behind
+[06Dec2024 03:15:54.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33068ms or 661 ticks behind
