@@ -742,3 +742,21 @@ java.lang.NullPointerException: null
 [06Dec2024 04:24:15.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
 [06Dec2024 04:24:51.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [Take Aim]
 [06Dec2024 04:24:55.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has made the advancement [Take Aim]
+[06Dec2024 04:25:51.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [patata0mega: Set own game mode to Creative Mode]
+[06Dec2024 04:26:13.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega has reached the goal [Half a flight]
+[06Dec2024 04:26:19.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 has made the advancement [Take Aim]
+[06Dec2024 04:27:08.059] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: patata0mega lost connection: Timed out
+[06Dec2024 04:27:08.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: patata0mega left the game
+[06Dec2024 04:27:08.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata0mega
+[06Dec2024 04:27:08.144] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[06Dec2024 04:27:42.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 is bleeding...
+[06Dec2024 04:28:07.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Orion_15632 was slain by Restless Spirit
+[06Dec2024 04:30:22.014] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: I_4M_R3D lost connection: Timed out
+[06Dec2024 04:30:22.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D left the game
+[06Dec2024 04:30:22.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client I_4M_R3D
+[06Dec2024 04:30:44.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: okottee has made the advancement [Amateur Archaeologist]
+[06Dec2024 04:30:46.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51679391
+[06Dec2024 04:30:46.421] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: I_4M_R3D[/0:0:0:0:0:0:0:1%0:49026] logged in with entity id 8892 at (-1208.1893623906583, 70.24918707874468, 149.3347635099517)
+[06Dec2024 04:30:46.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: I_4M_R3D joined the game
+[06Dec2024 04:30:46.946] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of I_4M_R3D (18)
+[06Dec2024 04:30:46.947] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to I_4M_R3D

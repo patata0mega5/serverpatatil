@@ -1112,6 +1112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-06 04:24:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:07:22 +0000"
@@ -1199,6 +1205,12 @@
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2024-12-06 02:28:46 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/bearing": {
+    "criteria": {
+      "has_item": "2024-12-06 04:26:00 +0000"
     },
     "done": true
   },
@@ -1479,6 +1491,7 @@
       "baked_potato": "2024-12-06 03:24:44 +0000",
       "potato": "2024-12-06 02:55:45 +0000",
       "bread": "2024-12-06 02:29:11 +0000",
+      "golden_apple": "2024-12-06 04:23:26 +0000",
       "rotten_flesh": "2024-12-06 02:59:47 +0000",
       "cooked_rabbit": "2024-12-06 03:08:07 +0000",
       "mushroom_stew": "2024-12-06 03:58:47 +0000",
@@ -1924,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-06 04:26:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-06 02:30:20 +0000"
@@ -2332,9 +2351,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-06 04:26:19 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2024-12-06 03:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-06 04:26:00 +0000"
     },
     "done": true
   },

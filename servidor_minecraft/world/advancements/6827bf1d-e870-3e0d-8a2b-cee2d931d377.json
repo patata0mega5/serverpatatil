@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-06 04:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-06 03:01:26 +0000"
@@ -335,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-06 04:24:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2024-12-06 02:33:23 +0000"
@@ -409,6 +421,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/piggy_backpack": {
+    "criteria": {
+      "has_item": "2024-12-06 04:24:38 +0000"
     },
     "done": true
   },
@@ -736,6 +754,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-06 04:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-06 03:57:47 +0000"
@@ -884,6 +908,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-06 04:17:53 +0000",
       "minecraft:spider": "2024-12-06 02:32:46 +0000",
+      "minecraft:stray": "2024-12-06 04:23:05 +0000",
       "minecraft:zombie": "2024-12-06 02:31:40 +0000"
     },
     "done": false
@@ -897,6 +922,12 @@
   "betterendforge:recipes/betterendforge/diamond_hammer": {
     "criteria": {
       "has_diamond_ingot": "2024-12-06 03:57:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-06 04:26:13 +0000"
     },
     "done": true
   },
@@ -1842,6 +1873,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-06 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-06 04:24:55 +0000"
     },
     "done": true
   },
